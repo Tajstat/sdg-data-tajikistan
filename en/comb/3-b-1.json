@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":["2015","2017","2015","2017","2015","2017"],"SERIES":["SH_ACS_VACN","SH_ACS_VACN","SH_ACS_VACN","SH_ACS_VACN","SH_ACS_VACN","SH_ACS_VACN"],"REF_AREA":["tj","tj","tj","tj","tj","tj"],"SEX":[null,null,"M","M","F","F"],"UNIT_MEASURE":["PT","PT","PT","PT","PT","PT"],"Value":[88.7,870.0,89.3,865.0,88.1,874.0]},"edges":{"From":["REF_AREA"],"To":["SEX"]}}
