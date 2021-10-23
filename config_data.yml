@@ -56,8 +56,8 @@ inputs:
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
-  #- class: InputWordMeta
-  #  path_pattern: meta/*-*.docm
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
  
 
 # Translations
