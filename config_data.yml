@@ -53,9 +53,9 @@ inputs:
     drop_singleton_dimensions: false
     dsd: 'SDG_DSD.xml'
     import_codes: true
-  - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
-    git: false
+ # - class: InputYamlMeta
+ #   path_pattern: indicator-config/*-*.yml
+ #   git: false
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
  
