@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-2",
+  "title": "Таносуби занону духтарони 15-сола ва калонтар аз ҷониби шахсони ғайр аз шарики маҳрамона дар 12 моҳи қабл, аз рӯи синну сол ва ҷои пайдоиши онҳо мавриди хушунати ҷинсӣ қарор гирифтааст."
+}

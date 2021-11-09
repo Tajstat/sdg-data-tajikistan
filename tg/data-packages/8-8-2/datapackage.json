@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-8-2",
+  "title": "Сатҳи мутобиқати миллӣ бо ҳуқуқҳои меҳнат (озодии иттиҳодияҳо ва созишномаҳои коллективӣ) дар асоси манбаъҳои матнии Созмони Байналмилалии Меҳнат (ILO) ва қонунгузории миллӣ, аз рӯи ҷинс ва вазъи муҳоҷир"
+}
