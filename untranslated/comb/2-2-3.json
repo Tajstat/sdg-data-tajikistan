@@ -1,1 +1,1 @@
-{"data":{"Year":["2017","2017","2017"],"SERIES":["SH_STA_ANEM","SH_STA_ANEM_PREG","SH_STA_ANEM_NPRG"],"REF_AREA":[null,null,null],"SEX":["F","F","F"],"AGE":["Y15T49","Y15T49","Y15T49"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[41.1,42.1,39.9]},"edges":{"From":["SEX"],"To":["AGE"]}}
+{"data":[],"edges":[]}
