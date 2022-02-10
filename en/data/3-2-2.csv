@@ -1,7 +1,7 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
-2015,SH_DYN_NMRT,,,M0,PT,19
-2017,SH_DYN_NMRT,,,M0,PT,13
-2015,SH_DYN_NMRT,,M,M0,PT,21
-2017,SH_DYN_NMRT,,M,M0,PT,16
-2015,SH_DYN_NMRT,,F,M0,PT,18
-2017,SH_DYN_NMRT,,F,M0,PT,10
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2015,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,19
+2017,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,13
+2015,Neonatal mortality rate [3.2.2],,Male,under 1 month old,Percent,21
+2017,Neonatal mortality rate [3.2.2],,Male,under 1 month old,Percent,16
+2015,Neonatal mortality rate [3.2.2],,Female,under 1 month old,Percent,18
+2017,Neonatal mortality rate [3.2.2],,Female,under 1 month old,Percent,10

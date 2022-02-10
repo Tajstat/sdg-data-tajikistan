@@ -1,6 +1,6 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,EG_EGY_PRIM,,PT,0.03
-2016,EG_EGY_PRIM,,PT,0.04
-2017,EG_EGY_PRIM,,PT,0.04
-2018,EG_EGY_PRIM,,PT,0.05
-2019,EG_EGY_PRIM,,PT,0.05
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Energy intensity level of primary energy [7.3.1],,Percent,0.03
+2016,Energy intensity level of primary energy [7.3.1],,Percent,0.04
+2017,Energy intensity level of primary energy [7.3.1],,Percent,0.04
+2018,Energy intensity level of primary energy [7.3.1],,Percent,0.05
+2019,Energy intensity level of primary energy [7.3.1],,Percent,0.05

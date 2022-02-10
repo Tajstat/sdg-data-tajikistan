@@ -1,13 +1,13 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,VC_DSR_MISS,,NUMBER,35.0
-2016,VC_DSR_MISS,,NUMBER,20.0
-2017,VC_DSR_MISS,,NUMBER,31.0
-2018,VC_DSR_MISS,,NUMBER,12.0
-2019,VC_DSR_MISS,,NUMBER,22.0
-2020,VC_DSR_MISS,,NUMBER,8.0
-2015,VC_DSR_MTMP,,PER_100000_POP,0.41
-2016,VC_DSR_MTMP,,PER_100000_POP,0.23
-2017,VC_DSR_MTMP,,PER_100000_POP,0.35
-2018,VC_DSR_MTMP,,PER_100000_POP,0.13
-2019,VC_DSR_MTMP,,PER_100000_POP,0.24
-2020,VC_DSR_MTMP,,PER_100000_POP,0.09
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2015,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,35.0
+2016,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,20.0
+2017,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,31.0
+2018,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,12.0
+2019,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,22.0
+2020,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,8.0
+2015,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",0.41
+2016,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",0.23
+2017,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",0.35
+2018,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",0.13
+2019,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",0.24
+2020,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",0.09

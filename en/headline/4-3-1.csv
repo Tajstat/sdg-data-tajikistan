@@ -1,6 +1,6 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,176.5,PER_100000_POP,SE_ADT_EDUCTRN
-2016,186.9,PER_100000_POP,SE_ADT_EDUCTRN
-2017,195.7,PER_100000_POP,SE_ADT_EDUCTRN
-2018,209.8,PER_100000_POP,SE_ADT_EDUCTRN
-2019,229.6,PER_100000_POP,SE_ADT_EDUCTRN
+2015,176.5,"Per 100,000 population",Participation rate in formal and non-formal education and training [4.3.1]
+2016,186.9,"Per 100,000 population",Participation rate in formal and non-formal education and training [4.3.1]
+2017,195.7,"Per 100,000 population",Participation rate in formal and non-formal education and training [4.3.1]
+2018,209.8,"Per 100,000 population",Participation rate in formal and non-formal education and training [4.3.1]
+2019,229.6,"Per 100,000 population",Participation rate in formal and non-formal education and training [4.3.1]

@@ -1,6 +1,6 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,Value
-2016,SL_TLF_NEET,,,Y15T24,,PT,29.3
-2016,SL_TLF_NEET,,M,Y15T24,,PT,7.2
-2016,SL_TLF_NEET,,F,Y15T24,,PT,49.3
-2016,SL_TLF_NEET,,,Y15T24,U,PT,35.2
-2016,SL_TLF_NEET,,,Y15T24,R,PT,27.1
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Value
+2016,"Proportion of youth not in education, employment or training [8.6.1]",,,15 to 24 years old,,Percent,29.3
+2016,"Proportion of youth not in education, employment or training [8.6.1]",,Male,15 to 24 years old,,Percent,7.2
+2016,"Proportion of youth not in education, employment or training [8.6.1]",,Female,15 to 24 years old,,Percent,49.3
+2016,"Proportion of youth not in education, employment or training [8.6.1]",,,15 to 24 years old,Urban,Percent,35.2
+2016,"Proportion of youth not in education, employment or training [8.6.1]",,,15 to 24 years old,Rural,Percent,27.1

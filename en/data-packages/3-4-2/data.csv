@@ -1,6 +1,6 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,SH_STA_SCIDEN,,PER_100000_POP,2.6
-2016,SH_STA_SCIDEN,,PER_100000_POP,2.7
-2017,SH_STA_SCIDEN,,PER_100000_POP,2.0
-2018,SH_STA_SCIDEN,,PER_100000_POP,2.4
-2019,SH_STA_SCIDEN,,PER_100000_POP,2.4
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Number of deaths attributed to suicide [3.4.2],,"Per 100,000 population",2.6
+2016,Number of deaths attributed to suicide [3.4.2],,"Per 100,000 population",2.7
+2017,Number of deaths attributed to suicide [3.4.2],,"Per 100,000 population",2.0
+2018,Number of deaths attributed to suicide [3.4.2],,"Per 100,000 population",2.4
+2019,Number of deaths attributed to suicide [3.4.2],,"Per 100,000 population",2.4

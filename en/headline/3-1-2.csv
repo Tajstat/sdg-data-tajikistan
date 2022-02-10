@@ -1,6 +1,6 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,98,PT,SH_STA_BRTC
-2016,98,PT,SH_STA_BRTC
-2017,98,PT,SH_STA_BRTC
-2018,99,PT,SH_STA_BRTC
-2019,99,PT,SH_STA_BRTC
+2015,98,Percent,Proportion of births attended by skilled health personnel [3.1.2]
+2016,98,Percent,Proportion of births attended by skilled health personnel [3.1.2]
+2017,98,Percent,Proportion of births attended by skilled health personnel [3.1.2]
+2018,99,Percent,Proportion of births attended by skilled health personnel [3.1.2]
+2019,99,Percent,Proportion of births attended by skilled health personnel [3.1.2]

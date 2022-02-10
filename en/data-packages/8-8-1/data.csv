@@ -1,11 +1,11 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,SL_EMP_INJUR,,PER_100000_WKRS_EMP,17
-2016,SL_EMP_INJUR,,PER_100000_WKRS_EMP,15
-2017,SL_EMP_INJUR,,PER_100000_WKRS_EMP,11
-2018,SL_EMP_INJUR,,PER_100000_WKRS_EMP,21
-2019,SL_EMP_INJUR,,PER_100000_WKRS_EMP,15
-2015,SL_EMP_FTLINJUR,,PER_100000_WKRS_EMP,6
-2016,SL_EMP_FTLINJUR,,PER_100000_WKRS_EMP,6
-2017,SL_EMP_FTLINJUR,,PER_100000_WKRS_EMP,2
-2018,SL_EMP_FTLINJUR,,PER_100000_WKRS_EMP,2
-2019,SL_EMP_FTLINJUR,,PER_100000_WKRS_EMP,3
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",17
+2016,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",15
+2017,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",11
+2018,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",21
+2019,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",15
+2015,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",6
+2016,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",6
+2017,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",2
+2018,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",2
+2019,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",3

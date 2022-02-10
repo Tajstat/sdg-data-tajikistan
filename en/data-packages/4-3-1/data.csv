@@ -1,16 +1,16 @@
-Year,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
-2015,SE_ADT_EDUCTRN,,,PER_100000_POP,176.5
-2016,SE_ADT_EDUCTRN,,,PER_100000_POP,186.9
-2017,SE_ADT_EDUCTRN,,,PER_100000_POP,195.7
-2018,SE_ADT_EDUCTRN,,,PER_100000_POP,209.8
-2019,SE_ADT_EDUCTRN,,,PER_100000_POP,229.6
-2015,SE_ADT_EDUCTRN,,M,PER_100000_POP,117.5
-2016,SE_ADT_EDUCTRN,,M,PER_100000_POP,121.0
-2017,SE_ADT_EDUCTRN,,M,PER_100000_POP,125.3
-2018,SE_ADT_EDUCTRN,,M,PER_100000_POP,133.4
-2019,SE_ADT_EDUCTRN,,M,PER_100000_POP,143.1
-2015,SE_ADT_EDUCTRN,,F,PER_100000_POP,59.0
-2016,SE_ADT_EDUCTRN,,F,PER_100000_POP,65.9
-2017,SE_ADT_EDUCTRN,,F,PER_100000_POP,70.4
-2018,SE_ADT_EDUCTRN,,F,PER_100000_POP,76.4
-2019,SE_ADT_EDUCTRN,,F,PER_100000_POP,86.5
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2015,Participation rate in formal and non-formal education and training [4.3.1],,,"Per 100,000 population",176.5
+2016,Participation rate in formal and non-formal education and training [4.3.1],,,"Per 100,000 population",186.9
+2017,Participation rate in formal and non-formal education and training [4.3.1],,,"Per 100,000 population",195.7
+2018,Participation rate in formal and non-formal education and training [4.3.1],,,"Per 100,000 population",209.8
+2019,Participation rate in formal and non-formal education and training [4.3.1],,,"Per 100,000 population",229.6
+2015,Participation rate in formal and non-formal education and training [4.3.1],,Male,"Per 100,000 population",117.5
+2016,Participation rate in formal and non-formal education and training [4.3.1],,Male,"Per 100,000 population",121.0
+2017,Participation rate in formal and non-formal education and training [4.3.1],,Male,"Per 100,000 population",125.3
+2018,Participation rate in formal and non-formal education and training [4.3.1],,Male,"Per 100,000 population",133.4
+2019,Participation rate in formal and non-formal education and training [4.3.1],,Male,"Per 100,000 population",143.1
+2015,Participation rate in formal and non-formal education and training [4.3.1],,Female,"Per 100,000 population",59.0
+2016,Participation rate in formal and non-formal education and training [4.3.1],,Female,"Per 100,000 population",65.9
+2017,Participation rate in formal and non-formal education and training [4.3.1],,Female,"Per 100,000 population",70.4
+2018,Participation rate in formal and non-formal education and training [4.3.1],,Female,"Per 100,000 population",76.4
+2019,Participation rate in formal and non-formal education and training [4.3.1],,Female,"Per 100,000 population",86.5

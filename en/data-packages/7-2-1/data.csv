@@ -1,6 +1,6 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,EG_FEC_RNEW,,PT,53.8
-2016,EG_FEC_RNEW,,PT,46.7
-2017,EG_FEC_RNEW,,PT,45.4
-2018,EG_FEC_RNEW,,PT,44.3
-2019,EG_FEC_RNEW,,PT,43.4
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Renewable energy share in the total final energy consumption [7.2.1],,Percent,53.8
+2016,Renewable energy share in the total final energy consumption [7.2.1],,Percent,46.7
+2017,Renewable energy share in the total final energy consumption [7.2.1],,Percent,45.4
+2018,Renewable energy share in the total final energy consumption [7.2.1],,Percent,44.3
+2019,Renewable energy share in the total final energy consumption [7.2.1],,Percent,43.4

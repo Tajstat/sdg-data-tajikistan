@@ -1,4 +1,4 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
-2017,SH_STA_ANEM,,F,Y15T49,PT,41.1
-2017,SH_STA_ANEM_PREG,,F,Y15T49,PT,42.1
-2017,SH_STA_ANEM_NPRG,,F,Y15T49,PT,39.9
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2017,Proportion of women aged 15-49 years with anaemia [2.2.3],,Female,15 to 49 years old,Percent,41.1
+2017,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",,Female,15 to 49 years old,Percent,42.1
+2017,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",,Female,15 to 49 years old,Percent,39.9

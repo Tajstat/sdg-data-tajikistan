@@ -1,6 +1,6 @@
-Year,SERIES,REF_AREA,ACTIVITY,UNIT_MEASURE,Value
-2015,SL_TLF_MANF,,ISIC4_C,PT,2.5
-2016,SL_TLF_MANF,,ISIC4_C,PT,2.5
-2017,SL_TLF_MANF,,ISIC4_C,PT,3.6
-2018,SL_TLF_MANF,,ISIC4_C,PT,3.5
-2019,SL_TLF_MANF,,ISIC4_C,PT,2.4
+Year,SERIES,Reference area,Economic activity,UNIT_MEASURE,Value
+2015,Manufacturing employment as a proportion of total employment [9.2.2],,Manufacturing,Percent,2.5
+2016,Manufacturing employment as a proportion of total employment [9.2.2],,Manufacturing,Percent,2.5
+2017,Manufacturing employment as a proportion of total employment [9.2.2],,Manufacturing,Percent,3.6
+2018,Manufacturing employment as a proportion of total employment [9.2.2],,Manufacturing,Percent,3.5
+2019,Manufacturing employment as a proportion of total employment [9.2.2],,Manufacturing,Percent,2.4

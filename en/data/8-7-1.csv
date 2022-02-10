@@ -1,6 +1,6 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,Value
-2016,SL_TLF_CHLDEC,,,Y5T17,,PT,13.1
-2016,SL_TLF_CHLDEC,,M,Y5T17,,PT,14.2
-2016,SL_TLF_CHLDEC,,F,Y5T17,,PT,12.0
-2016,SL_TLF_CHLDEC,,,Y5T17,U,PT,3.6
-2016,SL_TLF_CHLDEC,,,Y5T17,R,PT,16.7
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Value
+2016,Proportion of children engaged in economic activity and household chores [8.7.1],,,5 to 17 years old,,Percent,13.1
+2016,Proportion of children engaged in economic activity and household chores [8.7.1],,Male,5 to 17 years old,,Percent,14.2
+2016,Proportion of children engaged in economic activity and household chores [8.7.1],,Female,5 to 17 years old,,Percent,12.0
+2016,Proportion of children engaged in economic activity and household chores [8.7.1],,,5 to 17 years old,Urban,Percent,3.6
+2016,Proportion of children engaged in economic activity and household chores [8.7.1],,,5 to 17 years old,Rural,Percent,16.7

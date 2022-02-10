@@ -1,7 +1,7 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,101.1,PT,DT_TDS_DECT
-2016,78.3,PT,DT_TDS_DECT
-2017,64.1,PT,DT_TDS_DECT
-2018,48.1,PT,DT_TDS_DECT
-2019,46.7,PT,DT_TDS_DECT
-2020,24.3,PT,DT_TDS_DECT
+2015,101.1,Percent,Debt service as a proportion of exports of goods and services [17.4.1]
+2016,78.3,Percent,Debt service as a proportion of exports of goods and services [17.4.1]
+2017,64.1,Percent,Debt service as a proportion of exports of goods and services [17.4.1]
+2018,48.1,Percent,Debt service as a proportion of exports of goods and services [17.4.1]
+2019,46.7,Percent,Debt service as a proportion of exports of goods and services [17.4.1]
+2020,24.3,Percent,Debt service as a proportion of exports of goods and services [17.4.1]

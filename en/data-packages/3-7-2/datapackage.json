@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Y15T19"
+                "15 to 19 years old"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "REF_AREA",
@@ -29,12 +29,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -42,15 +42,15 @@
             "constraints": {
               "enum": [
                 "",
-                "F"
+                "Female"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

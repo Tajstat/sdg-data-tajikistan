@@ -1,4 +1,4 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,99.0,PT,SP_ACS_BSRVSAN
-2016,94.2,PT,SP_ACS_BSRVSAN
-2017,97.0,PT,SP_ACS_BSRVSAN
+2015,99.0,Percent,Proportion of population using basic sanitation services [1.4.1]
+2016,94.2,Percent,Proportion of population using basic sanitation services [1.4.1]
+2017,97.0,Percent,Proportion of population using basic sanitation services [1.4.1]

@@ -1,5 +1,5 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,103.5,PT,NY_GDP_PCAP
-2016,104.5,PT,NY_GDP_PCAP
-2017,104.8,PT,NY_GDP_PCAP
-2018,105.3,PT,NY_GDP_PCAP
+2015,103.5,Percent,Annual growth rate of real GDP per capita [8.1.1]
+2016,104.5,Percent,Annual growth rate of real GDP per capita [8.1.1]
+2017,104.8,Percent,Annual growth rate of real GDP per capita [8.1.1]
+2018,105.3,Percent,Annual growth rate of real GDP per capita [8.1.1]

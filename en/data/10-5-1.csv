@@ -1,19 +1,19 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,FI_FSI_FSANL,,PT,26.3
-2016,FI_FSI_FSANL,,PT,47.6
-2017,FI_FSI_FSANL,,PT,36.5
-2018,FI_FSI_FSANL,,PT,31.1
-2019,FI_FSI_FSANL,,PT,27.0
-2020,FI_FSI_FSANL,,PT,23.8
-2015,FI_FSI_FSERA,,PT,0.8
-2016,FI_FSI_FSERA,,PT,-2.8
-2017,FI_FSI_FSERA,,PT,0.5
-2018,FI_FSI_FSERA,,PT,1.9
-2019,FI_FSI_FSERA,,PT,2.1
-2020,FI_FSI_FSERA,,PT,2.5
-2015,FI_FSI_FSLS,,PT,70.4
-2016,FI_FSI_FSLS,,PT,83.9
-2017,FI_FSI_FSLS,,PT,73.8
-2018,FI_FSI_FSLS,,PT,72.3
-2019,FI_FSI_FSLS,,PT,67.4
-2020,FI_FSI_FSLS,,PT,70.5
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Non-performing loans to total gross loans (%) [10.5.1],,Percent,26.3
+2016,Non-performing loans to total gross loans (%) [10.5.1],,Percent,47.6
+2017,Non-performing loans to total gross loans (%) [10.5.1],,Percent,36.5
+2018,Non-performing loans to total gross loans (%) [10.5.1],,Percent,31.1
+2019,Non-performing loans to total gross loans (%) [10.5.1],,Percent,27.0
+2020,Non-performing loans to total gross loans (%) [10.5.1],,Percent,23.8
+2015,Return on assets (%) [10.5.1],,Percent,0.8
+2016,Return on assets (%) [10.5.1],,Percent,-2.8
+2017,Return on assets (%) [10.5.1],,Percent,0.5
+2018,Return on assets (%) [10.5.1],,Percent,1.9
+2019,Return on assets (%) [10.5.1],,Percent,2.1
+2020,Return on assets (%) [10.5.1],,Percent,2.5
+2015,Liquid assets to short term liabilities (%) [10.5.1],,Percent,70.4
+2016,Liquid assets to short term liabilities (%) [10.5.1],,Percent,83.9
+2017,Liquid assets to short term liabilities (%) [10.5.1],,Percent,73.8
+2018,Liquid assets to short term liabilities (%) [10.5.1],,Percent,72.3
+2019,Liquid assets to short term liabilities (%) [10.5.1],,Percent,67.4
+2020,Liquid assets to short term liabilities (%) [10.5.1],,Percent,70.5

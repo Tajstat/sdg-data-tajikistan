@@ -1,5 +1,5 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,103.5,PT,SL_EMP_PCAP
-2016,16.8,PT,SL_EMP_PCAP
-2017,106.0,PT,SL_EMP_PCAP
-2018,106.7,PT,SL_EMP_PCAP
+2015,103.5,Percent,Annual growth rate of real GDP per employed person [8.2.1]
+2016,16.8,Percent,Annual growth rate of real GDP per employed person [8.2.1]
+2017,106.0,Percent,Annual growth rate of real GDP per employed person [8.2.1]
+2018,106.7,Percent,Annual growth rate of real GDP per employed person [8.2.1]

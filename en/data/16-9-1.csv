@@ -1,4 +1,4 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
-2017,SG_REG_BRTH,,,Y0T4,PT,95.8
-2017,SG_REG_BRTH,,M,Y0T4,PT,96.9
-2017,SG_REG_BRTH,,F,Y0T4,PT,95.7
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2017,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,under 5 years old,Percent,95.8
+2017,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,under 5 years old,Percent,96.9
+2017,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,under 5 years old,Percent,95.7

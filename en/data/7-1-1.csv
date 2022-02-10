@@ -1,7 +1,7 @@
-Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,Value
-2015,EG_ACS_ELEC,,,PT,99.1
-2017,EG_ACS_ELEC,,,PT,99.3
-2015,EG_ACS_ELEC,,U,PT,99.8
-2017,EG_ACS_ELEC,,U,PT,99.2
-2015,EG_ACS_ELEC,,R,PT,98.8
-2017,EG_ACS_ELEC,,R,PT,99.3
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2015,Proportion of population with access to electricity [7.1.1],,,Percent,99.1
+2017,Proportion of population with access to electricity [7.1.1],,,Percent,99.3
+2015,Proportion of population with access to electricity [7.1.1],,Urban,Percent,99.8
+2017,Proportion of population with access to electricity [7.1.1],,Urban,Percent,99.2
+2015,Proportion of population with access to electricity [7.1.1],,Rural,Percent,98.8
+2017,Proportion of population with access to electricity [7.1.1],,Rural,Percent,99.3
