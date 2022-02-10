@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":["2015","2017"],"SERIES":["SH_FPL_MTMM","SH_FPL_MTMM"],"REF_AREA":[null,null],"SEX":["F","F"],"AGE":["Y15T49","Y15T49"],"OCCUPATION":[null,null],"ACTIVITY":[null,null],"UNIT_MEASURE":["PT","PT"],"Value":[51.0,52.2]},"edges":{"From":["SEX"],"To":["AGE"]}}
