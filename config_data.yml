@@ -42,7 +42,6 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_Structure
     source: http://sdmx.stat.tj/rest/data/IAEG-SDGs,SDG/A..............
-    path_pattern: 'data/*.xml'
     dimension_map:
       REF_AREA|TJ: ''
     drop_dimensions:
