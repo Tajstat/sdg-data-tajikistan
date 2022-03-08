@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1646736752</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2022-03-08T10:52:32</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@140"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="ef3dfdbd-8f1e-4fbd-8c95-6712ffa8cbd0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_POV_NAHC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>TJ</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1. End poverty in all its forms everywhere</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1. End poverty in all its forms everywhere</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1. End poverty in all its forms everywhere</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.2 End poverty in all its forms everywhere by 2030, reduce the proportion of men, women and children of all ages living in poverty in all its dimensions, according to national definitions, by at least half</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1.2 End poverty in all its forms everywhere by 2030, reduce the proportion of men, women and children of all ages living in poverty in all its dimensions, according to national definitions, by at least half</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1.2 End poverty in all its forms everywhere by 2030, reduce the proportion of men, women and children of all ages living in poverty in all its dimensions, according to national definitions, by at least half</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.2.1 Share of the country's population living below the national poverty line, disaggregated by sex and age</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1.2.1 Share of the country's population living below the national poverty line, disaggregated by sex and age</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1.2.1 Share of the country's population living below the national poverty line, disaggregated by sex and age</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>TAJSTAT, Department of Labor Statistics, Employment, Social Statistics and Household Statistics, Department of Consolidated Economic Analysis and International Relations</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>TAJSTAT, Department of Labor Statistics, Employment, Social Statistics and Household Statistics, Department of Consolidated Economic Analysis and International Relations</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>TAJSTAT, Department of Labor Statistics, Employment, Social Statistics and Household Statistics, Department of Consolidated Economic Analysis and International Relations</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Nabizoda Abduvali</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Nabizoda Abduvali</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Nabizoda Abduvali</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p> The national poverty line - is the proportion of the total population living below the national poverty line. Rural poverty is the percentage of the rural population living below the national line. The urban poverty rate is the percentage of the urban population living below the national poverty line.</p><p>To calculate the proportion and size of the country's population living below the national poverty line, it is necessary to have a well-being indicator (consumption expenditure) and a poverty line indicator, expressed in value terms.</p><p>Poverty line - is the limit of the minimum income per person required to meet the minimum needs of a person.</p><p>Household consumer expenditures - cash expenditures for the purchase of consumer non-food goods and services, as well as the assessment of the cost of consumption of food products.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p> The national poverty line - is the proportion of the total population living below the national poverty line. Rural poverty is the percentage of the rural population living below the national line. The urban poverty rate is the percentage of the urban population living below the national poverty line.</p><p>To calculate the proportion and size of the country's population living below the national poverty line, it is necessary to have a well-being indicator (consumption expenditure) and a poverty line indicator, expressed in value terms.</p><p>Poverty line - is the limit of the minimum income per person required to meet the minimum needs of a person.</p><p>Household consumer expenditures - cash expenditures for the purchase of consumer non-food goods and services, as well as the assessment of the cost of consumption of food products.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p> The national poverty line - is the proportion of the total population living below the national poverty line. Rural poverty is the percentage of the rural population living below the national line. The urban poverty rate is the percentage of the urban population living below the national poverty line.</p><p>To calculate the proportion and size of the country's population living below the national poverty line, it is necessary to have a well-being indicator (consumption expenditure) and a poverty line indicator, expressed in value terms.</p><p>Poverty line - is the limit of the minimum income per person required to meet the minimum needs of a person.</p><p>Household consumer expenditures - cash expenditures for the purchase of consumer non-food goods and services, as well as the assessment of the cost of consumption of food products.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Integrated sample survey of household budgets and labor force.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Integrated sample survey of household budgets and labor force.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Integrated sample survey of household budgets and labor force.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Data collection is carried out through HBS questionnaires using PSU sampling based on the latest available Census and updated lists of dwellings. In HBS surveys, personal interviews are used using tablet computers. Data collection is carried out on a quarterly basis, the development of an indicator is carried out at the end of the year.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Data collection is carried out through HBS questionnaires using PSU sampling based on the latest available Census and updated lists of dwellings. In HBS surveys, personal interviews are used using tablet computers. Data collection is carried out on a quarterly basis, the development of an indicator is carried out at the end of the year.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Data collection is carried out through HBS questionnaires using PSU sampling based on the latest available Census and updated lists of dwellings. In HBS surveys, personal interviews are used using tablet computers. Data collection is carried out on a quarterly basis, the development of an indicator is carried out at the end of the year.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The proposed welfare aggregate for the household survey is defined as the sum of food expenditures (purchase, production, gifts, or material goods) and non-food expenditures (excluding goods listed as gifts and the addition of those goods received as gifts). Due to the lack of suitable data, expenditures on housing and individual durables are not included in the welfare aggregate. The consumption aggregate is further adjusted for the temporary consumer price index (CPI) to correct for differences in price levels in different quarters. The consumption aggregate is also adjusted by the spatial consumer price index (CPI) to correct for differences in price levels across geographic areas and household sizes. For the interim CPI, we use the national total quarterly CPI. For the spatial CPI, we compute the overall Paasche price index using the HBS survey unit values ​​of the reported expenditures on food and selected non-food items</p><p>The absolute poverty line for the HBS survey is determined by the cost of basic needs method (SOP Ravallion, 1994). According to the SOP method, the general poverty line is the sum of two components: the food poverty line and the cash income for non-food consumption. To calculate the food poverty line, we set the average kilocalorie requirement (AKR) of 2,250 kilocalories per person per day, and calculate the minimum cost of one kilocalorie, choosing the bottom three national deciles from 3 to 36 in per capita expenditure as ours.   "reference group". To calculate the general poverty line, we define households whose actual expenditure on food is approximately equal to the food poverty line (about 5% of its value), and we calculate their average share of food consumption. The general poverty line is equal to the food poverty line divided by the average share of food consumption</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>The proposed welfare aggregate for the household survey is defined as the sum of food expenditures (purchase, production, gifts, or material goods) and non-food expenditures (excluding goods listed as gifts and the addition of those goods received as gifts). Due to the lack of suitable data, expenditures on housing and individual durables are not included in the welfare aggregate. The consumption aggregate is further adjusted for the temporary consumer price index (CPI) to correct for differences in price levels in different quarters. The consumption aggregate is also adjusted by the spatial consumer price index (CPI) to correct for differences in price levels across geographic areas and household sizes. For the interim CPI, we use the national total quarterly CPI. For the spatial CPI, we compute the overall Paasche price index using the HBS survey unit values ​​of the reported expenditures on food and selected non-food items</p><p>The absolute poverty line for the HBS survey is determined by the cost of basic needs method (SOP Ravallion, 1994). According to the SOP method, the general poverty line is the sum of two components: the food poverty line and the cash income for non-food consumption. To calculate the food poverty line, we set the average kilocalorie requirement (AKR) of 2,250 kilocalories per person per day, and calculate the minimum cost of one kilocalorie, choosing the bottom three national deciles from 3 to 36 in per capita expenditure as ours.   "reference group". To calculate the general poverty line, we define households whose actual expenditure on food is approximately equal to the food poverty line (about 5% of its value), and we calculate their average share of food consumption. The general poverty line is equal to the food poverty line divided by the average share of food consumption</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>The proposed welfare aggregate for the household survey is defined as the sum of food expenditures (purchase, production, gifts, or material goods) and non-food expenditures (excluding goods listed as gifts and the addition of those goods received as gifts). Due to the lack of suitable data, expenditures on housing and individual durables are not included in the welfare aggregate. The consumption aggregate is further adjusted for the temporary consumer price index (CPI) to correct for differences in price levels in different quarters. The consumption aggregate is also adjusted by the spatial consumer price index (CPI) to correct for differences in price levels across geographic areas and household sizes. For the interim CPI, we use the national total quarterly CPI. For the spatial CPI, we compute the overall Paasche price index using the HBS survey unit values ​​of the reported expenditures on food and selected non-food items</p><p>The absolute poverty line for the HBS survey is determined by the cost of basic needs method (SOP Ravallion, 1994). According to the SOP method, the general poverty line is the sum of two components: the food poverty line and the cash income for non-food consumption. To calculate the food poverty line, we set the average kilocalorie requirement (AKR) of 2,250 kilocalories per person per day, and calculate the minimum cost of one kilocalorie, choosing the bottom three national deciles from 3 to 36 in per capita expenditure as ours.   "reference group". To calculate the general poverty line, we define households whose actual expenditure on food is approximately equal to the food poverty line (about 5% of its value), and we calculate their average share of food consumption. The general poverty line is equal to the food poverty line divided by the average share of food consumption</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The concept of poverty assessment using a national poverty line differs from international poverty estimates. The national poverty level is determined in each country according to the poverty line adopted in a particular country in local currency. These poverty lines have significant differences in value in different countries, depending on their economic development. Thus, the national poverty rate cannot be compared with other countries or with a poverty rate of $1.90 a day. Estimates of the poverty level in the Republic are based on data from a sample survey of households, which is a certain limitation for detailing poverty indicators.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>The concept of poverty assessment using a national poverty line differs from international poverty estimates. The national poverty level is determined in each country according to the poverty line adopted in a particular country in local currency. These poverty lines have significant differences in value in different countries, depending on their economic development. Thus, the national poverty rate cannot be compared with other countries or with a poverty rate of $1.90 a day. Estimates of the poverty level in the Republic are based on data from a sample survey of households, which is a certain limitation for detailing poverty indicators.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>The concept of poverty assessment using a national poverty line differs from international poverty estimates. The national poverty level is determined in each country according to the poverty line adopted in a particular country in local currency. These poverty lines have significant differences in value in different countries, depending on their economic development. Thus, the national poverty rate cannot be compared with other countries or with a poverty rate of $1.90 a day. Estimates of the poverty level in the Republic are based on data from a sample survey of households, which is a certain limitation for detailing poverty indicators.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>A household and all persons living in it are classified as poor if the average per capita consumption value in the household does not exceed the poverty line. The indicator is calculated as a percentage of the population.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>A household and all persons living in it are classified as poor if the average per capita consumption value in the household does not exceed the poverty line. The indicator is calculated as a percentage of the population.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>A household and all persons living in it are classified as poor if the average per capita consumption value in the household does not exceed the poverty line. The indicator is calculated as a percentage of the population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Poverty economists at the World Bank usually work with the SA as a whole on poverty measurement and analysis through technical assistance activities. The raw data provided by the SA are checked for quality before they are used for further analysis.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Poverty economists at the World Bank usually work with the SA as a whole on poverty measurement and analysis through technical assistance activities. The raw data provided by the SA are checked for quality before they are used for further analysis.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Poverty economists at the World Bank usually work with the SA as a whole on poverty measurement and analysis through technical assistance activities. The raw data provided by the SA are checked for quality before they are used for further analysis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>A comparable time series calculated using a unified methodology has been available since 2013.</p><p>National and subnational level, by type of locality</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>A comparable time series calculated using a unified methodology has been available since 2013.</p><p>National and subnational level, by type of locality</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>A comparable time series calculated using a unified methodology has been available since 2013.</p><p>National and subnational level, by type of locality</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Poverty indicators using the national poverty line are not comparable with other countries, although the SA applies the consumption-based poverty calculation method recognized by the international community as one of the standard methods for calculating the poverty rate.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Poverty indicators using the national poverty line are not comparable with other countries, although the SA applies the consumption-based poverty calculation method recognized by the international community as one of the standard methods for calculating the poverty rate.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Poverty indicators using the national poverty line are not comparable with other countries, although the SA applies the consumption-based poverty calculation method recognized by the international community as one of the standard methods for calculating the poverty rate.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Poverty line determination method:</p><p>A new national methodology for measuring poverty in Tajikistan was adopted in April 2015 by the Council for Defining Poverty and the Middle Class (Council for Defining Poverty) under the Ministry of Economic Development and Trade. This new approach, based on international best practice in poverty measurement, was developed in collaboration with the World Bank Group with financial support from the UK Department for International Development (DFID). The Council ensures interaction between government bodies and institutions, representatives of academia and donor communities in the development and implementation of a national methodology for determining the level of poverty and the middle class in Tajikistan. The Council includes representatives of the MEDT of the Republic of Tajikistan, TajStat, the Ministry of Finance, the Ministry of Justice, the State Committee for Investments and State Property Management and the Center for Strategic Research under the President of the Republic of Tajikistan. The Council consists of two levels, a top level (responsible for policy) headed by the MEDT of the Republic of Tajikistan and a lower level (technical level) headed by TajStat.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Poverty line determination method:</p><p>A new national methodology for measuring poverty in Tajikistan was adopted in April 2015 by the Council for Defining Poverty and the Middle Class (Council for Defining Poverty) under the Ministry of Economic Development and Trade. This new approach, based on international best practice in poverty measurement, was developed in collaboration with the World Bank Group with financial support from the UK Department for International Development (DFID). The Council ensures interaction between government bodies and institutions, representatives of academia and donor communities in the development and implementation of a national methodology for determining the level of poverty and the middle class in Tajikistan. The Council includes representatives of the MEDT of the Republic of Tajikistan, TajStat, the Ministry of Finance, the Ministry of Justice, the State Committee for Investments and State Property Management and the Center for Strategic Research under the President of the Republic of Tajikistan. The Council consists of two levels, a top level (responsible for policy) headed by the MEDT of the Republic of Tajikistan and a lower level (technical level) headed by TajStat.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Poverty line determination method:</p><p>A new national methodology for measuring poverty in Tajikistan was adopted in April 2015 by the Council for Defining Poverty and the Middle Class (Council for Defining Poverty) under the Ministry of Economic Development and Trade. This new approach, based on international best practice in poverty measurement, was developed in collaboration with the World Bank Group with financial support from the UK Department for International Development (DFID). The Council ensures interaction between government bodies and institutions, representatives of academia and donor communities in the development and implementation of a national methodology for determining the level of poverty and the middle class in Tajikistan. The Council includes representatives of the MEDT of the Republic of Tajikistan, TajStat, the Ministry of Finance, the Ministry of Justice, the State Committee for Investments and State Property Management and the Center for Strategic Research under the President of the Republic of Tajikistan. The Council consists of two levels, a top level (responsible for policy) headed by the MEDT of the Republic of Tajikistan and a lower level (technical level) headed by TajStat.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

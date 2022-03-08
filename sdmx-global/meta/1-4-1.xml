@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1646736752</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2022-03-08T10:52:32</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@140"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="1922bc8a-4ea6-4822-b9f8-e974f4d23045">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_ACS_BSRV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>TJ</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="ee6eca95-c2b6-4034-839f-d256d98554f9">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_ACS_BSRVSAN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>TJ</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="1424b1d3-61cc-418a-ab56-b3f76c6a2ee0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_ACS_BSRVH2O</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>TJ</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1. Повсеместная ликвидация нищеты во всех её формах</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1.4: К 2030 году обеспечить, чтобы все мужчины и женщины, особенно малоимущие и уязвимые, имели равные права на экономические ресурсы, а также доступ к базовым услугам, владению и распоряжению землей и другими формами собственности, наследуемому имуществу, природным ресурсам, соответствующим новым технологиям и финансовым услугам, включая микрофинансирование</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>1.4.1: Доля населения, живущего в домохозяйствах с доступом к базовым услугам</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>АС, управление статистики труда, занятости населения, социальной статистики и статистики домашних хозяйств, управление сводно-экономического анализа и международных связей</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Набизода Абдували</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>221-49-91</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>abduvali@stat.tj</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доля населения, живущего в домохозяйствах с доступом к базовым услугам, в общей численности населения.</p><p>В соответствии с международными рекомендациями, к базовым относятся услуги, которые позволяют обеспечить основные потребности человека в области  питьевого водоснабжения, санитарии и гигиены, энергоснабжения, мобильности населения, сбора отходов, здравоохранения, образования и информационных технологий.</p><p>Доступ к базовым услугам подразумевает получение услуг соответствующего качества в необходимом объеме. Целевые задачи устойчивого развития  направлены на обеспечение всеобщего и равноправного доступа для всех, что подразумевает ликвидацию проявлений неравенства в уровнях обслуживания  всех категорий населения.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Республике в соответствии с раундами глобального исследования MICS.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Выборочное обследование домашних хозяйств  </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доступ к базовым услугам измеряет уровни доступности базовых услуг и создает информационную базу для направления усилий правительств на предоставление справедливых базовых услуг для всех.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>К базовым услугам также относят энергию, мобильность, сбор отходов, услуги здравоохранения, образования и информационные технологии, которые не использованы при расчете показателя.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Доля населения, охваченного минимальным уровнем/системами социальной защиты = Количество лиц, охваченных минимальным уровнем/системами социальной защиты / Общая численность населения * 100</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Уровень доступности базовых услуг в странах является одним из показателей эффективности принимаемых правительством мер по сокращению масштабов бедности и нищеты </p><p>Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ.</p><p>Национальный и субнациональный уровень, тип местности, квинтиль благосостояния.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+          <com:Text xml:lang="ru"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+          <com:Text xml:lang="tg"><![CDATA[<p>data.unicef.org,  <a href="http://data.unicef.org/ecd/development-status.html">http://data.unicef.org/ecd/development-status.html</a> </p><p>World Bank, 2015 The International Poverty Line, http://www.worldbank.org/en/programs/icp/brief/poverty-line  </p><p>WHO and UNICEF, 2017 Progress on Drinking Water, Sanitation and Hygiene Launch version July 12 2017, https://www.unicef.org/publications/index_96611.html  </p><p>UNDP 2016 Technical Notes Calculating the Human Development Indices, http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi </p><p>The World Bank Group, ESMAP, 2015 Beyond Connections Energy Access Redefined, <a href="http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined">http://www.worldbank.org/en/topic/energy/publication/energy-access-redefined</a> </p><p> </p><p>Национальная платформа отчётности ЦУР Таджикистана: на разработке</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        
