@@ -35,8 +35,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
                 "F",
+                "M",
                 ""
               ]
             },
@@ -52,6 +52,26 @@
               ]
             },
             "title": "AGE"
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "OCCUPATION"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ACTIVITY"
           },
           {
             "name": "UNIT_MEASURE",

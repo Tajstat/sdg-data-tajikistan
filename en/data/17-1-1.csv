@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Total government revenue as a proportion of GDP [17.1.1],,Percent,25.0
-2016,Total government revenue as a proportion of GDP [17.1.1],,Percent,23.2
-2017,Total government revenue as a proportion of GDP [17.1.1],,Percent,23.7
-2018,Total government revenue as a proportion of GDP [17.1.1],,Percent,23.2
-2019,Total government revenue as a proportion of GDP [17.1.1],,Percent,22.5
-2020,Total government revenue as a proportion of GDP [17.1.1],,Percent,20.9
+Year,SERIES,Reference area,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Total government revenue as a proportion of GDP [17.1.1],,,,Percent,25.0
+2016,Total government revenue as a proportion of GDP [17.1.1],,,,Percent,23.2
+2017,Total government revenue as a proportion of GDP [17.1.1],,,,Percent,23.7
+2018,Total government revenue as a proportion of GDP [17.1.1],,,,Percent,23.2
+2019,Total government revenue as a proportion of GDP [17.1.1],,,,Percent,22.5
+2020,Total government revenue as a proportion of GDP [17.1.1],,,,Percent,20.9

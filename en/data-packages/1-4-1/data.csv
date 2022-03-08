@@ -1,10 +1,10 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
-2015,Proportion of population using basic sanitation services [1.4.1],,,Percent,99.0
-2016,Proportion of population using basic sanitation services [1.4.1],,,Percent,94.2
-2017,Proportion of population using basic sanitation services [1.4.1],,,Percent,97.0
-2015,Proportion of population using basic sanitation services [1.4.1],,Urban,Percent,99.3
-2016,Proportion of population using basic sanitation services [1.4.1],,Urban,Percent,92.9
-2017,Proportion of population using basic sanitation services [1.4.1],,Urban,Percent,96.0
-2015,Proportion of population using basic sanitation services [1.4.1],,Rural,Percent,98.8
-2016,Proportion of population using basic sanitation services [1.4.1],,Rural,Percent,94.6
-2017,Proportion of population using basic sanitation services [1.4.1],,Rural,Percent,97.3
+Year,SERIES,Reference area,Degree of urbanisation,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Proportion of population using basic sanitation services [1.4.1],,,,,Percent,99.0
+2016,Proportion of population using basic sanitation services [1.4.1],,,,,Percent,94.2
+2017,Proportion of population using basic sanitation services [1.4.1],,,,,Percent,97.0
+2015,Proportion of population using basic sanitation services [1.4.1],,Rural,,,Percent,98.8
+2016,Proportion of population using basic sanitation services [1.4.1],,Rural,,,Percent,94.6
+2017,Proportion of population using basic sanitation services [1.4.1],,Rural,,,Percent,97.3
+2015,Proportion of population using basic sanitation services [1.4.1],,Urban,,,Percent,99.3
+2016,Proportion of population using basic sanitation services [1.4.1],,Urban,,,Percent,92.9
+2017,Proportion of population using basic sanitation services [1.4.1],,Urban,,,Percent,96.0

@@ -1,1 +1,1 @@
-{"data":{"Year":["2017","2017"],"SERIES":["SP_DYN_MRBF15","SP_DYN_MRBF18"],"REF_AREA":[null,null],"SEX":["F","F"],"AGE":["Y20T24","Y20T24"],"UNIT_MEASURE":["PT","PT"],"Value":[0.1,8.7]},"edges":{"From":["SEX"],"To":["AGE"]}}
+{"data":{"Year":["2017","2017"],"SERIES":["SP_DYN_MRBF15","SP_DYN_MRBF18"],"REF_AREA":[null,null],"SEX":["F","F"],"AGE":["Y20T24","Y20T24"],"OCCUPATION":[null,null],"ACTIVITY":[null,null],"UNIT_MEASURE":["PT","PT"],"Value":[0.1,8.7]},"edges":{"From":["SEX"],"To":["AGE"]}}

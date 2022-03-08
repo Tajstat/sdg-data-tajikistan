@@ -1,16 +1,16 @@
-Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2015,Tuberculosis incidence [3.3.2],,,"Per 100,000 population",60.4
-2016,Tuberculosis incidence [3.3.2],,,"Per 100,000 population",60.6
-2017,Tuberculosis incidence [3.3.2],,,"Per 100,000 population",59.2
-2018,Tuberculosis incidence [3.3.2],,,"Per 100,000 population",56.2
-2019,Tuberculosis incidence [3.3.2],,,"Per 100,000 population",56.0
-2015,Tuberculosis incidence [3.3.2],,Male,"Per 100,000 population",65.5
-2016,Tuberculosis incidence [3.3.2],,Male,"Per 100,000 population",65.7
-2017,Tuberculosis incidence [3.3.2],,Male,"Per 100,000 population",63.8
-2018,Tuberculosis incidence [3.3.2],,Male,"Per 100,000 population",60.3
-2019,Tuberculosis incidence [3.3.2],,Male,"Per 100,000 population",62.5
-2015,Tuberculosis incidence [3.3.2],,Female,"Per 100,000 population",55.2
-2016,Tuberculosis incidence [3.3.2],,Female,"Per 100,000 population",55.3
-2017,Tuberculosis incidence [3.3.2],,Female,"Per 100,000 population",54.5
-2018,Tuberculosis incidence [3.3.2],,Female,"Per 100,000 population",52.6
-2019,Tuberculosis incidence [3.3.2],,Female,"Per 100,000 population",49.2
+Year,SERIES,Reference area,Sex,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Tuberculosis incidence [3.3.2],,,,,"Per 100,000 population",60.4
+2016,Tuberculosis incidence [3.3.2],,,,,"Per 100,000 population",60.6
+2017,Tuberculosis incidence [3.3.2],,,,,"Per 100,000 population",59.2
+2018,Tuberculosis incidence [3.3.2],,,,,"Per 100,000 population",56.2
+2019,Tuberculosis incidence [3.3.2],,,,,"Per 100,000 population",56.0
+2015,Tuberculosis incidence [3.3.2],,Female,,,"Per 100,000 population",55.2
+2016,Tuberculosis incidence [3.3.2],,Female,,,"Per 100,000 population",55.3
+2017,Tuberculosis incidence [3.3.2],,Female,,,"Per 100,000 population",54.5
+2018,Tuberculosis incidence [3.3.2],,Female,,,"Per 100,000 population",52.6
+2019,Tuberculosis incidence [3.3.2],,Female,,,"Per 100,000 population",49.2
+2015,Tuberculosis incidence [3.3.2],,Male,,,"Per 100,000 population",65.5
+2016,Tuberculosis incidence [3.3.2],,Male,,,"Per 100,000 population",65.7
+2017,Tuberculosis incidence [3.3.2],,Male,,,"Per 100,000 population",63.8
+2018,Tuberculosis incidence [3.3.2],,Male,,,"Per 100,000 population",60.3
+2019,Tuberculosis incidence [3.3.2],,Male,,,"Per 100,000 population",62.5

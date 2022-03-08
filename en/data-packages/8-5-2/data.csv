@@ -1,6 +1,6 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
-2016,Unemployment rate [8.5.2],,,,Percent,6.9
-2016,Unemployment rate [8.5.2],,Male,,Percent,7.9
-2016,Unemployment rate [8.5.2],,Female,,Percent,5.5
-2016,Unemployment rate [8.5.2],,,Urban,Percent,11.0
-2016,Unemployment rate [8.5.2],,,Rural,Percent,5.5
+Year,SERIES,Reference area,Sex,Degree of urbanisation,Occupation,Economic activity,UNIT_MEASURE,Value
+2016,Unemployment rate [8.5.2],,,,,,Percent,6.9
+2016,Unemployment rate [8.5.2],,,Rural,,,Percent,5.5
+2016,Unemployment rate [8.5.2],,,Urban,,,Percent,11.0
+2016,Unemployment rate [8.5.2],,Female,,,,Percent,5.5
+2016,Unemployment rate [8.5.2],,Male,,,,Percent,7.9

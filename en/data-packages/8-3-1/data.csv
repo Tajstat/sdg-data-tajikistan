@@ -1,6 +1,6 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
-2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,,Percent,29.4
-2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Male,,Percent,33.2
-2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Female,,Percent,21.7
-2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,Urban,Percent,25.7
-2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,Rural,Percent,31.9
+Year,SERIES,Reference area,Sex,Degree of urbanisation,Occupation,Economic activity,UNIT_MEASURE,Value
+2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,,,,Percent,29.4
+2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,Rural,,,Percent,31.9
+2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,Urban,,,Percent,25.7
+2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Female,,,,Percent,21.7
+2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Male,,,,Percent,33.2

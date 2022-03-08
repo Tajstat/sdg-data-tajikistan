@@ -28,6 +28,15 @@
             }
           },
           {
+            "name": "OCCUPATION",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "ACTIVITY",
             "type": "string",
             "constraints": {

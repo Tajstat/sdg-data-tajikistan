@@ -11,6 +11,16 @@
       "schema": {
         "fields": [
           {
+            "name": "ACTIVITY",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
@@ -20,6 +30,16 @@
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Occupation"
           },
           {
             "name": "REF_AREA",

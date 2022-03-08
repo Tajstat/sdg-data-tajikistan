@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Proportion of population below international poverty line [1.1.1],,Percent,4.81
-2016,Proportion of population below international poverty line [1.1.1],,Percent,4.34
-2017,Proportion of population below international poverty line [1.1.1],,Percent,3.58
-2018,Proportion of population below international poverty line [1.1.1],,Percent,2.95
-2019,Proportion of population below international poverty line [1.1.1],,Percent,2.61
-2020,Proportion of population below international poverty line [1.1.1],,Percent,2.61
+Year,SERIES,Reference area,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Proportion of population below international poverty line [1.1.1],,,,Percent,4.81
+2016,Proportion of population below international poverty line [1.1.1],,,,Percent,4.34
+2017,Proportion of population below international poverty line [1.1.1],,,,Percent,3.58
+2018,Proportion of population below international poverty line [1.1.1],,,,Percent,2.95
+2019,Proportion of population below international poverty line [1.1.1],,,,Percent,2.61
+2020,Proportion of population below international poverty line [1.1.1],,,,Percent,2.61

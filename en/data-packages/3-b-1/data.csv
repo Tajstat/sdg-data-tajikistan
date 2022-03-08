@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2015,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,,Percent,88.7
-2017,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,,Percent,87.0
-2015,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Male,Percent,89.3
-2017,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Male,Percent,86.5
-2015,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Female,Percent,88.1
-2017,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Female,Percent,87.4
+Year,SERIES,Reference area,Sex,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,,,,Percent,88.7
+2017,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,,,,Percent,87.0
+2015,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Female,,,Percent,88.1
+2017,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Female,,,Percent,87.4
+2015,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Male,,,Percent,89.3
+2017,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Male,,,Percent,86.5

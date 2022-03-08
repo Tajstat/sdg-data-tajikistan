@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Annual growth rate of real GDP per capita [8.1.1],,Percent,103.5
-2016,Annual growth rate of real GDP per capita [8.1.1],,Percent,104.5
-2017,Annual growth rate of real GDP per capita [8.1.1],,Percent,104.8
-2018,Annual growth rate of real GDP per capita [8.1.1],,Percent,105.3
+Year,SERIES,Reference area,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Annual growth rate of real GDP per capita [8.1.1],,,,Percent,103.5
+2016,Annual growth rate of real GDP per capita [8.1.1],,,,Percent,104.5
+2017,Annual growth rate of real GDP per capita [8.1.1],,,,Percent,104.8
+2018,Annual growth rate of real GDP per capita [8.1.1],,,,Percent,105.3

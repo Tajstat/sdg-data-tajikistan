@@ -1,4 +1,4 @@
-Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2017,Proportion of women aged 15-49 years with anaemia [2.2.3],,Female,15 to 49 years old,Percent,41.1
-2017,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",,Female,15 to 49 years old,Percent,42.1
-2017,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",,Female,15 to 49 years old,Percent,39.9
+Year,SERIES,Reference area,Sex,Age,Occupation,Economic activity,UNIT_MEASURE,Value
+2017,Proportion of women aged 15-49 years with anaemia [2.2.3],,Female,15 to 49 years old,,,Percent,41.1
+2017,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",,Female,15 to 49 years old,,,Percent,39.9
+2017,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",,Female,15 to 49 years old,,,Percent,42.1

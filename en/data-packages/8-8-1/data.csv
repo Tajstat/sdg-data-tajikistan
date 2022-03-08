@@ -1,11 +1,11 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",17
-2016,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",15
-2017,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",11
-2018,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",21
-2019,Non-fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",15
-2015,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",6
-2016,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",6
-2017,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",2
-2018,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",2
-2019,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 workers employed",3
+Year,SERIES,Reference area,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",6
+2016,Fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",6
+2017,Fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",2
+2018,Fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",2
+2019,Fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",3
+2015,Non-fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",17
+2016,Non-fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",15
+2017,Non-fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",11
+2018,Non-fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",21
+2019,Non-fatal occupational injuries among employees (rate) [8.8.1],,,,"Per 100,000 workers employed",15

@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2015,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,19
-2017,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,13
-2015,Neonatal mortality rate [3.2.2],,Male,under 1 month old,Percent,21
-2017,Neonatal mortality rate [3.2.2],,Male,under 1 month old,Percent,16
-2015,Neonatal mortality rate [3.2.2],,Female,under 1 month old,Percent,18
-2017,Neonatal mortality rate [3.2.2],,Female,under 1 month old,Percent,10
+Year,SERIES,Reference area,Sex,Age,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Neonatal mortality rate [3.2.2],,,under 1 month old,,,Percent,19
+2017,Neonatal mortality rate [3.2.2],,,under 1 month old,,,Percent,13
+2015,Neonatal mortality rate [3.2.2],,Female,under 1 month old,,,Percent,18
+2017,Neonatal mortality rate [3.2.2],,Female,under 1 month old,,,Percent,10
+2015,Neonatal mortality rate [3.2.2],,Male,under 1 month old,,,Percent,21
+2017,Neonatal mortality rate [3.2.2],,Male,under 1 month old,,,Percent,16

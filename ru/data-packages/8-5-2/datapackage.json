@@ -35,8 +35,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
                 "F",
+                "M",
                 ""
               ]
             },
@@ -47,12 +47,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
                 "R",
+                "U",
                 ""
               ]
             },
             "title": "URBANISATION"
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "OCCUPATION"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ACTIVITY"
           },
           {
             "name": "UNIT_MEASURE",

@@ -32,8 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
                 "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }

@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2015,Proportion of women in managerial positions [5.5.2],,Female,Percent,18.3
-2016,Proportion of women in managerial positions [5.5.2],,Female,Percent,17.9
-2017,Proportion of women in managerial positions [5.5.2],,Female,Percent,18.9
-2018,Proportion of women in managerial positions [5.5.2],,Female,Percent,18.1
-2019,Proportion of women in managerial positions [5.5.2],,Female,Percent,18.5
-2020,Proportion of women in managerial positions [5.5.2],,Female,Percent,19.1
+Year,SERIES,Reference area,Sex,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Proportion of women in managerial positions [5.5.2],,Female,,,Percent,18.3
+2016,Proportion of women in managerial positions [5.5.2],,Female,,,Percent,17.9
+2017,Proportion of women in managerial positions [5.5.2],,Female,,,Percent,18.9
+2018,Proportion of women in managerial positions [5.5.2],,Female,,,Percent,18.1
+2019,Proportion of women in managerial positions [5.5.2],,Female,,,Percent,18.5
+2020,Proportion of women in managerial positions [5.5.2],,Female,,,Percent,19.1

@@ -1,13 +1,13 @@
-Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2015,Under-five mortality rate [3.2.1],,,under 5 years old,"Per 1,000 live births",43
-2017,Under-five mortality rate [3.2.1],,,under 5 years old,"Per 1,000 live births",33
-2015,Under-five mortality rate [3.2.1],,Male,under 5 years old,"Per 1,000 live births",51
-2017,Under-five mortality rate [3.2.1],,Male,under 5 years old,"Per 1,000 live births",40
-2015,Under-five mortality rate [3.2.1],,Female,under 5 years old,"Per 1,000 live births",46
-2017,Under-five mortality rate [3.2.1],,Female,under 5 years old,"Per 1,000 live births",26
-2015,Infant mortality rate [3.2.1],,,under 1 year old,"Per 1,000 live births",34
-2017,Infant mortality rate [3.2.1],,,under 1 year old,"Per 1,000 live births",27
-2015,Infant mortality rate [3.2.1],,Male,under 1 year old,"Per 1,000 live births",41
-2017,Infant mortality rate [3.2.1],,Male,under 1 year old,"Per 1,000 live births",33
-2015,Infant mortality rate [3.2.1],,Female,under 1 year old,"Per 1,000 live births",36
-2017,Infant mortality rate [3.2.1],,Female,under 1 year old,"Per 1,000 live births",21
+Year,SERIES,Reference area,Sex,Age,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Infant mortality rate [3.2.1],,,under 1 year old,,,"Per 1,000 live births",34
+2017,Infant mortality rate [3.2.1],,,under 1 year old,,,"Per 1,000 live births",27
+2015,Infant mortality rate [3.2.1],,Female,under 1 year old,,,"Per 1,000 live births",36
+2017,Infant mortality rate [3.2.1],,Female,under 1 year old,,,"Per 1,000 live births",21
+2015,Infant mortality rate [3.2.1],,Male,under 1 year old,,,"Per 1,000 live births",41
+2017,Infant mortality rate [3.2.1],,Male,under 1 year old,,,"Per 1,000 live births",33
+2015,Under-five mortality rate [3.2.1],,,under 5 years old,,,"Per 1,000 live births",43
+2017,Under-five mortality rate [3.2.1],,,under 5 years old,,,"Per 1,000 live births",33
+2015,Under-five mortality rate [3.2.1],,Female,under 5 years old,,,"Per 1,000 live births",46
+2017,Under-five mortality rate [3.2.1],,Female,under 5 years old,,,"Per 1,000 live births",26
+2015,Under-five mortality rate [3.2.1],,Male,under 5 years old,,,"Per 1,000 live births",51
+2017,Under-five mortality rate [3.2.1],,Male,under 5 years old,,,"Per 1,000 live births",40

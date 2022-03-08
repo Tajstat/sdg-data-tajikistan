@@ -31,6 +31,16 @@
             "title": "REF_AREA"
           },
           {
+            "name": "OCCUPATION",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "OCCUPATION"
+          },
+          {
             "name": "ACTIVITY",
             "type": "string",
             "constraints": {

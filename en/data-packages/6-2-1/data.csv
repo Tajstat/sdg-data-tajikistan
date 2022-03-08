@@ -1,13 +1,13 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
-2015,Proportion of population using safely managed sanitation services [6.2.1],,,Percent,94.2
-2017,Proportion of population using safely managed sanitation services [6.2.1],,,Percent,97.0
-2015,Proportion of population using safely managed sanitation services [6.2.1],,Urban,Percent,92.9
-2017,Proportion of population using safely managed sanitation services [6.2.1],,Urban,Percent,96.0
-2015,Proportion of population using safely managed sanitation services [6.2.1],,Rural,Percent,94.6
-2017,Proportion of population using safely managed sanitation services [6.2.1],,Rural,Percent,97.3
-2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,78.5
-2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,76.4
-2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,90.0
-2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,90.0
-2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,73.0
-2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,70.1
+Year,SERIES,Reference area,Degree of urbanisation,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,,,,Percent,78.5
+2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,,,,Percent,76.4
+2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,,,Percent,73.0
+2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,,,Percent,70.1
+2015,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,,,Percent,90.0
+2017,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,,,Percent,90.0
+2015,Proportion of population using safely managed sanitation services [6.2.1],,,,,Percent,94.2
+2017,Proportion of population using safely managed sanitation services [6.2.1],,,,,Percent,97.0
+2015,Proportion of population using safely managed sanitation services [6.2.1],,Rural,,,Percent,94.6
+2017,Proportion of population using safely managed sanitation services [6.2.1],,Rural,,,Percent,97.3
+2015,Proportion of population using safely managed sanitation services [6.2.1],,Urban,,,Percent,92.9
+2017,Proportion of population using safely managed sanitation services [6.2.1],,Urban,,,Percent,96.0

@@ -1,6 +1,6 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Labour share of GDP [10.4.1],,Percent,17.4
-2016,Labour share of GDP [10.4.1],,Percent,17.7
-2017,Labour share of GDP [10.4.1],,Percent,16.5
-2018,Labour share of GDP [10.4.1],,Percent,16.5
-2019,Labour share of GDP [10.4.1],,Percent,16.7
+Year,SERIES,Reference area,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Labour share of GDP [10.4.1],,,,Percent,17.4
+2016,Labour share of GDP [10.4.1],,,,Percent,17.7
+2017,Labour share of GDP [10.4.1],,,,Percent,16.5
+2018,Labour share of GDP [10.4.1],,,,Percent,16.5
+2019,Labour share of GDP [10.4.1],,,,Percent,16.7

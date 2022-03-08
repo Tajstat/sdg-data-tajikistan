@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
                 "F",
+                "M",
                 ""
               ]
             }
@@ -44,6 +44,24 @@
             "constraints": {
               "enum": [
                 "Y0T4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
