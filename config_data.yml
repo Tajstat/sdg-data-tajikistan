@@ -40,7 +40,8 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputSdmxMl_Multiple
+  - class: InputSdmxMl_Structure
+    source: http://sdmx.stat.tj/rest/data/IAEG-SDGs,SDG/A..............
     path_pattern: 'data/*.xml'
     dimension_map:
       REF_AREA|TJ: ''
@@ -52,7 +53,7 @@ inputs:
       - OBS_STATUS
       - UNIT_MULT
     drop_singleton_dimensions: false
-    dsd: 'SDG_DSD.xml'
+    dsd: http://sdmx.stat.tj/rest/dataflow/IAEG-SDGs/SDG/1.4?references=all&detail=referencepartial
     import_codes: true
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
