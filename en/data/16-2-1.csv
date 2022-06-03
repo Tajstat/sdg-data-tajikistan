@@ -1,1 +1,4 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,Occupation,Economic activity,UNIT_MEASURE,Value
+2017,Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month [16.2.1],,,1 to 17 years old,,,Percent,69.0
+2017,Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month [16.2.1],,Female,1 to 17 years old,,,Percent,67.4
+2017,Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month [16.2.1],,Male,1 to 17 years old,,,Percent,70.5

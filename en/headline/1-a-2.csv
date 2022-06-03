@@ -1,1 +1,17 @@
-Year,Value
+Year,Value,UNIT_MEASURE,SERIES
+2015,15.6,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2016,16.9,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2017,16.0,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2018,15.3,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2019,18.2,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2020,17.4,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2015,6.2,Percent,Proportion of total government spending on health [1.a.2]
+2016,6.3,Percent,Proportion of total government spending on health [1.a.2]
+2017,6.2,Percent,Proportion of total government spending on health [1.a.2]
+2018,6.4,Percent,Proportion of total government spending on health [1.a.2]
+2019,7.5,Percent,Proportion of total government spending on health [1.a.2]
+2020,10.4,Percent,Proportion of total government spending on health [1.a.2]
+2016,3.1,Percent,Proportion of total government spending on social protection [1.a.2]
+2017,7.1,Percent,Proportion of total government spending on social protection [1.a.2]
+2018,3.8,Percent,Proportion of total government spending on social protection [1.a.2]
+2019,4.6,Percent,Proportion of total government spending on social protection [1.a.2]

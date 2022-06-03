@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":["2015","2016","2017","2018","2019","2020"],"SERIES":["GB_POP_SCIERD","GB_POP_SCIERD","GB_POP_SCIERD","GB_POP_SCIERD","GB_POP_SCIERD","GB_POP_SCIERD"],"REF_AREA":[null,null,null,null,null,null],"OCCUPATION":[null,null,null,null,null,null],"ACTIVITY":[null,null,null,null,null,null],"UNIT_MEASURE":["PER_1000000_POP","PER_1000000_POP","PER_1000000_POP","PER_1000000_POP","PER_1000000_POP","PER_1000000_POP"],"Value":[433,446,414,427,483,452]},"edges":[]}

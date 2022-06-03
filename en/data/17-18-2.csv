@@ -1,1 +1,7 @@
-Year,Value
+Year,SERIES,Reference area,Occupation,Economic activity,UNIT_MEASURE,Value
+2015,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) [17.18.2],,,,Boolean or binary measure,1
+2016,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) [17.18.2],,,,Boolean or binary measure,1
+2017,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) [17.18.2],,,,Boolean or binary measure,1
+2018,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) [17.18.2],,,,Boolean or binary measure,1
+2019,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) [17.18.2],,,,Boolean or binary measure,1
+2020,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) [17.18.2],,,,Boolean or binary measure,1

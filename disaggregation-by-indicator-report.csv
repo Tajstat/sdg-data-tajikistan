@@ -2,6 +2,8 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1,URBANISATION,1
 #1-2-2,"URBANISATION, AGE",2
 #1-4-1,URBANISATION,1
+#16-1-1,SEX,1
+#16-2-1,"AGE, SEX",2
 #16-9-1,"AGE, SEX",2
 #2-2-1,"AGE, SEX",2
 #2-2-2,"AGE, SEX",2
@@ -18,6 +20,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-3-1,SEX,1
 #5-2-1,SEX,1
 #5-3-1,"AGE, SEX",2
+#5-4-1,SEX,1
 #5-5-1,SEX,1
 #5-5-2,SEX,1
 #5-6-1,"AGE, SEX",2
@@ -27,6 +30,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-10-1,AGE,1
 #8-10-2,AGE,1
 #8-3-1,"URBANISATION, SEX",2
+#8-5-1,SEX,1
 #8-5-2,"URBANISATION, SEX",2
 #8-6-1,"URBANISATION, AGE, SEX",3
 #8-7-1,"URBANISATION, AGE, SEX",3
