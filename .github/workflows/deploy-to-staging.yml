@@ -26,6 +26,7 @@ jobs:
         pip install -r scripts/requirements.txt
         pip install packaging
         pip install packaging setuptools wheel
+        pip install packaging "frictionless<5"
     - name: Build data
       run: |
         python scripts/build_data.py
