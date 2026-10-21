@@ -41,7 +41,7 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_StructureSpecific
-    source: "data/SDG Data 2022.xml"
+    source: "data/SDG Data 2026.xml"
     dimension_map:
       REF_AREA|TJ: ''
     drop_dimensions:
