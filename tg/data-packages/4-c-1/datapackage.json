@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-1",
+  "title": "Ҳиссаи муаллимон дар: (а) пеш аз ибтидоӣ; (б) ибтидоӣ; (в) дуюмдараҷаи поёнӣ; ва (г) таҳсилоти миёнаи миёна, ки ҳадди аққал ҳадди аққали таълими муташаккилонаи муаллимон (масалан, омодагии омӯзгорӣ) пешакӣ ё такмили ихтисосро барои таҳсил дар сатҳи дахлдори ин ё он кишвар гирифтаанд."
+}

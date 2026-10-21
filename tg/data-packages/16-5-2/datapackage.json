@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-5-2",
+  "title": "Ҳиссаи корхонаҳое, ки ҳадди аққал бо як мансабдори давлатӣ робита доштанд ва ба шахси мансабдор пора додаанд ё дар тӯли 12 моҳи гузашта аз ҷониби шахсони мансабдори давлатӣ пора талаб карда шуда буданд"
+}

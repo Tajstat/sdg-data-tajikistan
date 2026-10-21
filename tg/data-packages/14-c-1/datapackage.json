@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-c-1",
+  "title": "Шумораи кишварҳое, ки дар тасвиб, қабул ва татбиқи чаҳорчӯбаи ҳуқуқӣ, сиёсӣ ва институтсионалӣ, санадҳои марбут ба уқёнус, ки қонунҳои байналмилалиро, ки дар Конвенсияи Созмони Милали Муттаҳид оид ба ҳуқуқи баҳр инъикос ёфтааст, барои ҳифз ва истифодаи устувори уқёнусҳо ва захираҳои онҳо"
+}

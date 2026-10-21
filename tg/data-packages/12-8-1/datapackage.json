@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-8-1",
+  "title": "Дар доираи он (i) таълими шаҳрвандии ҷаҳонӣ ва (ii) таҳсилот барои рушди устувор (аз ҷумла таълими тағирёбии иқлим) дар сиёсати миллӣ таҳсил карда мешавад; (б) барномаҳои таълимӣ; (в) таълими муаллимон; ва (г) арзёбии донишҷӯён"
+}

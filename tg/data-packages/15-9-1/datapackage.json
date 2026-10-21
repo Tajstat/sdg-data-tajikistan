@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-9-1",
+  "title": "Пешрафт дар самти ҳадафҳои миллие, ки мутобиқи Ҳадафи 2-и гуногунии биологии Айчи муқаррар шудааст, нақшаи стратегии гуногунии биологӣ барои солҳои 2011-2020"
+}

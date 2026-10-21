@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-a-1",
+  "title": "Ҳиссаи мактабҳое, ки ба а) нерӯи барқ дастрасӣ доранд; (б) Интернет бо мақсадҳои педагогӣ; (в) компютерҳо бо мақсадҳои педагогӣ; (г) инфрасохтор ва маводҳои мутобиқшуда барои донишҷӯёни маъюб; (д) оби тозаи нӯшокӣ; (е) иншооти санитарии оддии ҷинсӣ; ва (ж) иншооти асосии шустани даст (мувофиқи таърифи нишондиҳандаи WASH)"
+}
