@@ -60,9 +60,9 @@ inputs:
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
  
-sdmx_output_global:
-    meta_reporting_type: N
-    meta_ref_area: TJ
+#sdmx_output_global:
+#    meta_reporting_type: N
+#    meta_ref_area: TJ
     
 # Translations
 # ------------
