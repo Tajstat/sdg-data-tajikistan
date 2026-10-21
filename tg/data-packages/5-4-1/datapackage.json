@@ -12,40 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
             "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Year"
           },
           {
             "name": "Value",

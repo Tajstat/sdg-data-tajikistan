@@ -271,50 +271,6 @@
       "title": "Ҳиссаи аҳолии дар хонаводаҳое, ки ба хизматрасониҳои аввалия дастрасӣ доранд, зиндагӣ мекунанд"
     },
     {
-      "path": "1-4-2/data.csv",
-      "name": "1-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ҳиссаи шумораи умумии аҳолии калонсол, ки дорои ҳуқуқи амволи замин ба замин мебошанд, бо ҳуҷҷатҳои қонунӣ эътирофшуда ва онҳое, ки ҳуқуқҳои худро ба замин ҳамчун амвол, аз рӯи ҷинс ва намуди моликият мешуморанд"
-    },
-    {
       "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
@@ -445,182 +401,6 @@
         ]
       },
       "title": "Шумораи фавтидагон, гумшудаҳо ва шахсони бевосита зарардида ба ҳар 100,000 аҳолӣ, ки ба офатҳо мансубанд"
-    },
-    {
-      "path": "1-5-4/data.csv",
-      "name": "1-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби ҳукуматҳои маҳаллӣ, ки стратегияҳои маҳаллии коҳиш додани хатари офатҳои табииро мутобиқи стратегияҳои коҳиши хатари офатҳои табиӣ қабул ва татбиқ мекунанд"
-    },
-    {
-      "path": "11-b-2/data.csv",
-      "name": "11-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби ҳукуматҳои маҳаллӣ, ки стратегияҳои маҳаллии коҳиш додани хатари офатҳои табииро мутобиқи стратегияҳои коҳиши хатари офатҳои табиӣ қабул ва татбиқ мекунанд"
-    },
-    {
-      "path": "13-1-3/data.csv",
-      "name": "13-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби ҳукуматҳои маҳаллӣ, ки стратегияҳои маҳаллии коҳиш додани хатари офатҳои табииро мутобиқи стратегияҳои коҳиши хатари офатҳои табиӣ қабул ва татбиқ мекунанд"
-    },
-    {
-      "path": "1-a-2/data.csv",
-      "name": "1-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби хароҷоти умумии ҳукумат барои хадамоти муҳим (маориф, тандурустӣ ва ҳифзи иҷтимоӣ)"
     },
     {
       "path": "2-a-1/data.csv",
@@ -867,94 +647,6 @@
       "title": "Паҳншавии камхунӣ дар занони аз 15 то 49 сола, аз рӯи вазъи ҳомиладорӣ (фоиз)"
     },
     {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби минтақаи кишоварзӣ дар кишоварзии истеҳсолӣ ва устувор"
-    },
-    {
-      "path": "2-a-2/data.csv",
-      "name": "2-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Маҷмӯи ҷараёнҳои расмӣ (кумаки расмии рушд ва дигар ҷараёнҳои расмӣ) ба бахши кишоварзӣ"
-    },
-    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -1046,7 +738,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1114,7 +806,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1181,7 +873,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1217,18 +909,6 @@
               ]
             },
             "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1299,50 +979,6 @@
         ]
       },
       "title": "Бемории сил ба 100 000 аҳолӣ"
-    },
-    {
-      "path": "3-3-4/data.csv",
-      "name": "3-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Касалии гепатит В ба ҳар 100,000 аҳолӣ"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1876,94 +1512,6 @@
       "title": "Сатҳи иштироки ҷавонон ва калонсолон дар таълими расмӣ ва ғайрирасмӣ дар 12 моҳи гузашта, аз рӯи ҷинс"
     },
     {
-      "path": "4-c-1/data.csv",
-      "name": "4-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ҳиссаи муаллимон дар: (а) пеш аз ибтидоӣ; (б) ибтидоӣ; (в) дуюмдараҷаи поёнӣ; ва (г) таҳсилоти миёнаи миёна, ки ҳадди аққал ҳадди аққали таълими муташаккилонаи муаллимон (масалан, омодагии омӯзгорӣ) пешакӣ ё такмили ихтисосро барои таҳсил дар сатҳи дахлдори ин ё он кишвар гирифтаанд."
-    },
-    {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Новобаста аз он ки чаҳорчӯбаҳои ҳуқуқии ташвиқ, татбиқ ва назорат кардани баробарӣ ва бидуни табъиз дар заминаи ҷинс мавҷуданд ё не."
-    },
-    {
       "path": "5-2-1/data.csv",
       "name": "5-2-1",
       "profile": "tabular-data-resource",
@@ -2083,62 +1631,6 @@
         ]
       },
       "title": "Таносуби занони 20-24 сола, ки оиладор ё дар иттифоқи то 15-сола ва то 18-солагӣ буданд"
-    },
-    {
-      "path": "5-4-1/data.csv",
-      "name": "5-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби вақти сарфшуда ба корҳои бемузди корҳои хонагӣ ва нигоҳубин аз рӯи ҷинс, синну сол ва маҳал"
     },
     {
       "path": "5-5-1/data.csv",
@@ -2315,94 +1807,6 @@
         ]
       },
       "title": "Ҳиссаи занони аз 15 то 49 сола, ки қарорҳои огоҳонаи худро дар робита бо муносибатҳои ҷинсӣ, истифодаи пешгирии ҳомиладорӣ ва ҳифзи саломатии репродуктивӣ қабул мекунанд"
-    },
-    {
-      "path": "5-b-1/data.csv",
-      "name": "5-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби шахсоне, ки телефони мобилӣ доранд, аз рӯи ҷинс"
-    },
-    {
-      "path": "5-c-1/data.csv",
-      "name": "5-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби кишварҳое, ки системаҳои пайгирӣ ва ҷудо кардани маблағҳо барои баробарии гендерӣ ва тавонмандии занон доранд"
     },
     {
       "path": "6-2-1/data.csv",
@@ -2815,62 +2219,6 @@
         ]
       },
       "title": "Таносуби шуғли ғайрирасмӣ дар шуғли ғайрикишоварзӣ аз рӯи ҷинс"
-    },
-    {
-      "path": "8-5-1/data.csv",
-      "name": "8-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Музди миёнаи яксоатаи кормандони зан ва мард аз рӯи шуғл, синну сол ва маъюбон"
     },
     {
       "path": "8-5-2/data.csv",
@@ -3451,50 +2799,6 @@
       "title": "Хароҷоти таҳқиқот ва рушд ҳамчун ҳиссаи ММД"
     },
     {
-      "path": "9-5-2/data.csv",
-      "name": "9-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Муҳаққиқон (ба эквиваленти пурравақт) ба як миллион нафар аҳолӣ"
-    },
-    {
       "path": "10-4-1/data.csv",
       "name": "10-4-1",
       "profile": "tabular-data-resource",
@@ -3581,50 +2885,6 @@
         ]
       },
       "title": "Нишондиҳандаҳои солимии молиявӣ (FSIs)"
-    },
-    {
-      "path": "11-1-1/data.csv",
-      "name": "11-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ҳиссаи аҳолии шаҳр, ки дар маҳаллаҳои фақирона, шаҳракҳои ғайрирасмӣ ё манзилҳои номувофиқ зиндагӣ мекунанд"
     },
     {
       "path": "14-6-1/data.csv",
@@ -3759,129 +3019,6 @@
       "title": "Майдони ҷангал ҳамчун ҳиссаи масоҳати умумии замин"
     },
     {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Шумораи қурбониёни куштори қасдан ба 100,000 аҳолӣ, аз рӯи ҷинс ва синну сол"
-    },
-    {
-      "path": "16-2-1/data.csv",
-      "name": "16-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y1T17",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ҳиссаи кӯдакони аз 1 то 17 сола, ки дар давоми як моҳи охир аз ҷониби парасторон ҳар гуна ҷазои ҷисмонӣ ва / ё таҷовузи равониро аз сар гузаронидаанд"
-    },
-    {
       "path": "16-9-1/data.csv",
       "name": "16-9-1",
       "profile": "tabular-data-resource",
@@ -3991,50 +3128,6 @@
         ]
       },
       "title": "Маҷмӯи даромади давлат ҳамчун ҳиссаи ММД, аз рӯи манбаъ"
-    },
-    {
-      "path": "17-1-2/data.csv",
-      "name": "17-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ҳиссаи буҷети дохилӣ, ки аз ҳисоби андозҳои дохилӣ маблағгузорӣ мешавад"
     },
     {
       "path": "17-4-1/data.csv",
@@ -4167,622 +3260,6 @@
         ]
       },
       "title": "Таносуби шахсони алоҳида аз Интернет"
-    },
-    {
-      "path": "17-18-2/data.csv",
-      "name": "17-18-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Шумораи кишварҳое, ки қонунгузории миллии оморӣ доранд, ки ба Принсипҳои асосии омори расмӣ мувофиқат мекунанд"
-    },
-    {
-      "path": "17-19-2/data.csv",
-      "name": "17-19-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби кишварҳое, ки (а) дар 10 соли охир ҳадди аққал як барӯйхатгирии аҳолӣ ва манзилро гузаронидаанд; ва (б) 100 фоизи бақайдгирии таваллуд ва 80 фоизи бақайдгирии маргро ба даст оварданд"
-    },
-    {
-      "path": "3-b-3/data.csv",
-      "name": "3-b-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ҳиссаи муассисаҳои тандурустӣ, ки маҷмӯи асосии дорувориҳои зарурии муҳимро дар асоси устувор ва дастрас доранд"
-    },
-    {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Шумораи кишварҳое, ки стратегияҳои миллии коҳиши хатари офатҳои табииро мутобиқи чаҳорчӯби Сендаи коҳиши хавфи офатҳои табиӣ 2015–2030 қабул ва татбиқ мекунанд"
-    },
-    {
-      "path": "11-b-1/data.csv",
-      "name": "11-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Шумораи кишварҳое, ки стратегияҳои миллии коҳиши хатари офатҳои табииро мутобиқи чаҳорчӯби Сендаи коҳиши хавфи офатҳои табиӣ 2015–2030 қабул ва татбиқ мекунанд"
-    },
-    {
-      "path": "13-1-2/data.csv",
-      "name": "13-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Шумораи кишварҳое, ки стратегияҳои миллии коҳиши хатари офатҳои табииро мутобиқи чаҳорчӯби Сендаи коҳиши хавфи офатҳои табиӣ 2015–2030 қабул ва татбиқ мекунанд"
-    },
-    {
-      "path": "3-3-3/data.csv",
-      "name": "3-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Касалии вараҷа ба 1000 нафар аҳолӣ"
-    },
-    {
-      "path": "6-4-2/data.csv",
-      "name": "6-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Сатҳи стресс аз об: хуруҷи оби ширин ҳамчун ҳиссаи захираҳои мавҷудаи оби ширин"
-    },
-    {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Дараҷаи татбиқи идоракунии маҷмӯии захираҳои об (0 то 100)"
-    },
-    {
-      "path": "6-5-2/data.csv",
-      "name": "6-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби минтақаи ҳавзаи наздимарзӣ бо ташкили амалиёт барои ҳамкорӣ дар соҳаи об"
-    },
-    {
-      "path": "6-b-1/data.csv",
-      "name": "6-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Таносуби воҳидҳои маъмурии маҳаллӣ бо сиёсатҳо ва расмиёти муқарраршуда ва амалиётӣ барои иштироки ҷамоаҳои маҳаллӣ дар идоракунии об ва санитария"
-    },
-    {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Маҳбусони бидуни иҷоза ҳамчун ҳиссаи шумораи умумии аҳолии маҳбас"
-    },
-    {
-      "path": "12-4-2/data.csv",
-      "name": "12-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Партовҳои хатарнок ба ҳар сари аҳолӣ ва ҳиссаи партовҳои хатарноки коркардшуда аз рӯи намудҳои коркард"
-    },
-    {
-      "path": "12-5-1/data.csv",
-      "name": "12-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Сатҳи такрории миллӣ, тонна маводҳои такрорӣ"
     },
     {
       "path": "17-7-1/data.csv",
@@ -4953,6 +3430,30 @@
       "title": "Шумораи кишварҳое, ки дар тасвиб, қабул ва татбиқи чаҳорчӯбаи ҳуқуқӣ, сиёсӣ ва институтсионалӣ, санадҳои марбут ба уқёнус, ки қонунҳои байналмилалиро, ки дар Конвенсияи Созмони Милали Муттаҳид оид ба ҳуқуқи баҳр инъикос ёфтааст, барои ҳифз ва истифодаи устувори уқёнусҳо ва захираҳои онҳо"
     },
     {
+      "path": "3-3-3/data.csv",
+      "name": "3-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Касалии вараҷа ба 1000 нафар аҳолӣ"
+    },
+    {
       "path": "13-2-2/data.csv",
       "name": "13-2-2",
       "profile": "tabular-data-resource",
@@ -4975,6 +3476,30 @@
         ]
       },
       "title": "Ҷамъи партоби газҳои гулхонаӣ дар як сол"
+    },
+    {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби минтақаи кишоварзӣ дар кишоварзии истеҳсолӣ ва устувор"
     },
     {
       "path": "15-3-1/data.csv",
@@ -5023,6 +3548,30 @@
         ]
       },
       "title": "Нуқтаи моддӣ, изи моддӣ ба ҳар сари аҳолӣ ва изи моддӣ ба ММД"
+    },
+    {
+      "path": "3-b-3/data.csv",
+      "name": "3-b-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ҳиссаи муассисаҳои тандурустӣ, ки маҷмӯи асосии дорувориҳои зарурии муҳимро дар асоси устувор ва дастрас доранд"
     },
     {
       "path": "3-9-1/data.csv",
@@ -5241,6 +3790,30 @@
       "title": "Таносуби захираҳои моҳӣ дар сатҳи устувори биологӣ"
     },
     {
+      "path": "16-1-1/data.csv",
+      "name": "16-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Шумораи қурбониёни куштори қасдан ба 100,000 аҳолӣ, аз рӯи ҷинс ва синну сол"
+    },
+    {
       "path": "11-5-2/data.csv",
       "name": "11-5-2",
       "profile": "tabular-data-resource",
@@ -5287,6 +3860,30 @@
         ]
       },
       "title": "Сатҳи миёнаи солонаи зарраҳои заррин (масалан PM2.5 ва PM10) дар шаҳрҳо (бо вазни аҳолӣ)"
+    },
+    {
+      "path": "13-1-2/data.csv",
+      "name": "13-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Шумораи кишварҳое, ки стратегияҳои миллии коҳиши хатари офатҳои табииро мутобиқи чаҳорчӯби Сендаи коҳиши хавфи офатҳои табиӣ 2015–2030 қабул ва татбиқ мекунанд"
     },
     {
       "path": "10-6-1/data.csv",
@@ -5577,6 +4174,30 @@
       "title": "Теъдоди кишварҳое, ки механизмҳои амалкунандаи баланд бардоштани ҳамоҳангии сиёсати рушди устуворро доранд"
     },
     {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ҳиссаи буҷети дохилӣ, ки аз ҳисоби андозҳои дохилӣ маблағгузорӣ мешавад"
+    },
+    {
       "path": "12-2-1/data.csv",
       "name": "12-2-1",
       "profile": "tabular-data-resource",
@@ -5623,6 +4244,54 @@
         ]
       },
       "title": "Шумораи кишварҳое, ки кам кардани таъсир, мутобиқшавӣ, коҳиш додани таъсир ва огоҳии барвақтиро ба барномаҳои таълимии ибтидоӣ, миёна ва олӣ ворид кардаанд"
+    },
+    {
+      "path": "11-b-2/data.csv",
+      "name": "11-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби ҳукуматҳои маҳаллӣ, ки стратегияҳои маҳаллии коҳиш додани хатари офатҳои табииро мутобиқи стратегияҳои коҳиши хатари офатҳои табиӣ қабул ва татбиқ мекунанд"
+    },
+    {
+      "path": "6-4-2/data.csv",
+      "name": "6-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Сатҳи стресс аз об: хуруҷи оби ширин ҳамчун ҳиссаи захираҳои мавҷудаи оби ширин"
     },
     {
       "path": "14-5-1/data.csv",
@@ -5745,6 +4414,78 @@
       "title": "Таносуби занону мардони ҷавон аз 18-29 сола, ки дар синни 18-солагӣ зӯроварии ҷинсиро аз сар гузаронидаанд"
     },
     {
+      "path": "5-c-1/data.csv",
+      "name": "5-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби кишварҳое, ки системаҳои пайгирӣ ва ҷудо кардани маблағҳо барои баробарии гендерӣ ва тавонмандии занон доранд"
+    },
+    {
+      "path": "6-5-1/data.csv",
+      "name": "6-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Дараҷаи татбиқи идоракунии маҷмӯии захираҳои об (0 то 100)"
+    },
+    {
+      "path": "17-19-2/data.csv",
+      "name": "17-19-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби кишварҳое, ки (а) дар 10 соли охир ҳадди аққал як барӯйхатгирии аҳолӣ ва манзилро гузаронидаанд; ва (б) 100 фоизи бақайдгирии таваллуд ва 80 фоизи бақайдгирии маргро ба даст оварданд"
+    },
+    {
       "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
@@ -5863,6 +4604,30 @@
         ]
       },
       "title": "Миқёси истифодаи чорчӯбаҳои натиҷаҳои ба кишвар тааллуқдошта ва воситаҳои банақшагирӣ аз ҷониби провайдерҳои ҳамкориҳои рушд"
+    },
+    {
+      "path": "1-a-2/data.csv",
+      "name": "1-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби хароҷоти умумии ҳукумат барои хадамоти муҳим (маориф, тандурустӣ ва ҳифзи иҷтимоӣ)"
     },
     {
       "path": "10-c-1/data.csv",
@@ -6057,6 +4822,30 @@
       "title": "Ҳаҷми интиқоли пулӣ (бо доллари ИМА) ҳамчун ҳиссаи маҷмӯи маҳсулоти дохилӣ"
     },
     {
+      "path": "9-5-2/data.csv",
+      "name": "9-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Муҳаққиқон (ба эквиваленти пурравақт) ба як миллион нафар аҳолӣ"
+    },
+    {
       "path": "12-2-2/data.csv",
       "name": "12-2-2",
       "profile": "tabular-data-resource",
@@ -6223,6 +5012,30 @@
         ]
       },
       "title": "Таносуби кишварҳое, ки дар онҳо заминаи ҳуқуқӣ (аз ҷумла қонунҳои маъмулӣ) ҳуқуқи баробари занонро ба моликият ба замин ва / ё назоратро кафолат медиҳад"
+    },
+    {
+      "path": "1-5-4/data.csv",
+      "name": "1-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби ҳукуматҳои маҳаллӣ, ки стратегияҳои маҳаллии коҳиш додани хатари офатҳои табииро мутобиқи стратегияҳои коҳиши хатари офатҳои табиӣ қабул ва татбиқ мекунанд"
     },
     {
       "path": "16-8-1/data.csv",
@@ -6393,6 +5206,30 @@
       "title": "Маблағи кумаки расмии рушди об ва санитария, ки як қисми нақшаи хароҷоти ҳамоҳангшудаи ҳукумат мебошад"
     },
     {
+      "path": "1-5-3/data.csv",
+      "name": "1-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Шумораи кишварҳое, ки стратегияҳои миллии коҳиши хатари офатҳои табииро мутобиқи чаҳорчӯби Сендаи коҳиши хавфи офатҳои табиӣ 2015–2030 қабул ва татбиқ мекунанд"
+    },
+    {
       "path": "10-1-1/data.csv",
       "name": "10-1-1",
       "profile": "tabular-data-resource",
@@ -6415,6 +5252,30 @@
         ]
       },
       "title": "Суръати афзоиши хароҷоти хонаводаҳо ё даромад ба ҳар сари аҳолӣ дар байни 40 фоизи аҳолӣ ва шумораи умумии аҳолӣ"
+    },
+    {
+      "path": "16-2-1/data.csv",
+      "name": "16-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ҳиссаи кӯдакони аз 1 то 17 сола, ки дар давоми як моҳи охир аз ҷониби парасторон ҳар гуна ҷазои ҷисмонӣ ва / ё таҷовузи равониро аз сар гузаронидаанд"
     },
     {
       "path": "16-a-1/data.csv",
@@ -6511,6 +5372,30 @@
         ]
       },
       "title": "Ҳиссаи шахсони ҷабрдидаи озори ҷисмонӣ ё ҷинсӣ аз рӯи ҷинс, синну сол, вазъи маъюбӣ ва ҷои пайдоиш дар 12 моҳи гузашта"
+    },
+    {
+      "path": "5-b-1/data.csv",
+      "name": "5-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби шахсоне, ки телефони мобилӣ доранд, аз рӯи ҷинс"
     },
     {
       "path": "16-2-2/data.csv",
@@ -6801,6 +5686,30 @@
       "title": "Шумораи кишварҳое, ки дар бораи таъсис додан ё ба кор андохтани як сиёсат / стратегия / нақшаи ҳамгирошуда, ки қобилияти мутобиқшавӣ ба таъсири номатлуби тағирёбии иқлимро тақвият додаанд, таҳаммулпазирии иқлим ва рушди пасти партобҳои газҳои гулхонаиро ба тарзе, ки таҳдид намекунад истеҳсолот (аз ҷумла нақшаи миллии мутобиқшавӣ, саҳми муайяншудаи миллӣ, иртиботи миллӣ, гузориши навсозии дусола ё дигар)"
     },
     {
+      "path": "1-4-2/data.csv",
+      "name": "1-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ҳиссаи шумораи умумии аҳолии калонсол, ки дорои ҳуқуқи амволи замин ба замин мебошанд, бо ҳуҷҷатҳои қонунӣ эътирофшуда ва онҳое, ки ҳуқуқҳои худро ба замин ҳамчун амвол, аз рӯи ҷинс ва намуди моликият мешуморанд"
+    },
+    {
       "path": "16-4-2/data.csv",
       "name": "16-4-2",
       "profile": "tabular-data-resource",
@@ -6871,6 +5780,30 @@
         ]
       },
       "title": "Шумораи стратегияҳо ё сиёсатҳои устувори туризм ва нақшаҳои амалишаванда бо воситаҳои мувофиқашудаи мониторинг ва арзёбӣ"
+    },
+    {
+      "path": "12-4-2/data.csv",
+      "name": "12-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Партовҳои хатарнок ба ҳар сари аҳолӣ ва ҳиссаи партовҳои хатарноки коркардшуда аз рӯи намудҳои коркард"
     },
     {
       "path": "8-a-1/data.csv",
@@ -6991,6 +5924,30 @@
         ]
       },
       "title": "Дар доираи он (i) таълими шаҳрвандии ҷаҳонӣ ва (ii) таҳсилот барои рушди устувор, аз ҷумла баробарии гендерӣ ва ҳуқуқи инсон, дар ҳама сатҳҳо дар (а) сиёсати миллии таҳсилот ҷорӣ карда шудааст; (б) барномаҳои таълимӣ; (в) таълими муаллимон; ва (г) арзёбии донишҷӯён"
+    },
+    {
+      "path": "11-1-1/data.csv",
+      "name": "11-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ҳиссаи аҳолии шаҳр, ки дар маҳаллаҳои фақирона, шаҳракҳои ғайрирасмӣ ё манзилҳои номувофиқ зиндагӣ мекунанд"
     },
     {
       "path": "14-7-1/data.csv",
@@ -7209,6 +6166,30 @@
       "title": "Ҳиссаи аҳолӣ, ки ба нақлиёти ҷамъиятӣ аз рӯи ҷинс, синну сол ва маъюбон дастрасии мувофиқ доранд"
     },
     {
+      "path": "5-4-1/data.csv",
+      "name": "5-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби вақти сарфшуда ба корҳои бемузди корҳои хонагӣ ва нигоҳубин аз рӯи ҷинс, синну сол ва маҳал"
+    },
+    {
       "path": "16-10-1/data.csv",
       "name": "16-10-1",
       "profile": "tabular-data-resource",
@@ -7329,6 +6310,54 @@
       "title": "Шумораи кишварҳое, ки кафолатҳои конститутсионӣ, оинномавӣ ва / ё сиёсиро барои дастрасии омма ба иттилоот қабул ва татбиқ мекунанд"
     },
     {
+      "path": "6-b-1/data.csv",
+      "name": "6-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби воҳидҳои маъмурии маҳаллӣ бо сиёсатҳо ва расмиёти муқарраршуда ва амалиётӣ барои иштироки ҷамоаҳои маҳаллӣ дар идоракунии об ва санитария"
+    },
+    {
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Новобаста аз он ки чаҳорчӯбаҳои ҳуқуқии ташвиқ, татбиқ ва назорат кардани баробарӣ ва бидуни табъиз дар заминаи ҷинс мавҷуданд ё не."
+    },
+    {
       "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",
@@ -7375,6 +6404,30 @@
         ]
       },
       "title": "Шумораи кишварҳое, ки нақшаи омори миллӣ доранд, ки пурра аз ҷониби манбаи маблағгузорӣ маблағгузорӣ ва амалӣ карда мешавад"
+    },
+    {
+      "path": "6-5-2/data.csv",
+      "name": "6-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби минтақаи ҳавзаи наздимарзӣ бо ташкили амалиёт барои ҳамкорӣ дар соҳаи об"
     },
     {
       "path": "10-b-1/data.csv",
@@ -7471,6 +6524,30 @@
         ]
       },
       "title": "Субсидияҳои содиротии кишоварзӣ"
+    },
+    {
+      "path": "8-5-1/data.csv",
+      "name": "8-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Музди миёнаи яксоатаи кормандони зан ва мард аз рӯи шуғл, синну сол ва маъюбон"
     },
     {
       "path": "4-4-1/data.csv",
@@ -7617,6 +6694,30 @@
       "title": "Таносуби арзиши иловашудаи соҳаи миёна ва технологияи олӣ дар маҷмӯи арзиши изофа"
     },
     {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Маҳбусони бидуни иҷоза ҳамчун ҳиссаи шумораи умумии аҳолии маҳбас"
+    },
+    {
       "path": "10-3-1/data.csv",
       "name": "10-3-1",
       "profile": "tabular-data-resource",
@@ -7713,6 +6814,30 @@
       "title": "Ҳаҷми мусофиркашонӣ ва боркашонӣ, тавассути намуди нақлиёт"
     },
     {
+      "path": "2-a-2/data.csv",
+      "name": "2-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Маҷмӯи ҷараёнҳои расмӣ (кумаки расмии рушд ва дигар ҷараёнҳои расмӣ) ба бахши кишоварзӣ"
+    },
+    {
       "path": "11-6-1/data.csv",
       "name": "11-6-1",
       "profile": "tabular-data-resource",
@@ -7807,6 +6932,30 @@
         ]
       },
       "title": "Фоизи сироятҳои ҷараёни хун аз ҳисоби организмҳои интихобшудаи ба микробҳо муқовиматшуда"
+    },
+    {
+      "path": "3-3-4/data.csv",
+      "name": "3-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Касалии гепатит В ба ҳар 100,000 аҳолӣ"
     },
     {
       "path": "15-8-1/data.csv",
@@ -7929,6 +7078,30 @@
       "title": "Тағирёбии самаранокии истифодаи об бо мурури замон"
     },
     {
+      "path": "4-c-1/data.csv",
+      "name": "4-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ҳиссаи муаллимон дар: (а) пеш аз ибтидоӣ; (б) ибтидоӣ; (в) дуюмдараҷаи поёнӣ; ва (г) таҳсилоти миёнаи миёна, ки ҳадди аққал ҳадди аққали таълими муташаккилонаи муаллимон (масалан, омодагии омӯзгорӣ) пешакӣ ё такмили ихтисосро барои таҳсил дар сатҳи дахлдори ин ё он кишвар гирифтаанд."
+    },
+    {
       "path": "16-7-1/data.csv",
       "name": "16-7-1",
       "profile": "tabular-data-resource",
@@ -7951,6 +7124,30 @@
         ]
       },
       "title": "Таносуби мансабҳо (аз рӯи ҷинс, синну сол, маъюбон ва гурӯҳҳои аҳолӣ) дар муассисаҳои давлатӣ (қонунгузории миллӣ ва маҳаллӣ, хадамоти давлатӣ ва судӣ) дар муқоиса бо тақсимоти миллӣ"
+    },
+    {
+      "path": "11-b-1/data.csv",
+      "name": "11-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Шумораи кишварҳое, ки стратегияҳои миллии коҳиши хатари офатҳои табииро мутобиқи чаҳорчӯби Сендаи коҳиши хавфи офатҳои табиӣ 2015–2030 қабул ва татбиқ мекунанд"
     },
     {
       "path": "12-1-1/data.csv",
@@ -7999,6 +7196,30 @@
         ]
       },
       "title": "Паҳншавии камғизоӣ"
+    },
+    {
+      "path": "17-18-2/data.csv",
+      "name": "17-18-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Шумораи кишварҳое, ки қонунгузории миллии оморӣ доранд, ки ба Принсипҳои асосии омори расмӣ мувофиқат мекунанд"
     },
     {
       "path": "16-5-1/data.csv",
@@ -8385,6 +7606,30 @@
       "title": "Дар доираи он (i) таълими шаҳрвандии ҷаҳонӣ ва (ii) таҳсилот барои рушди устувор (аз ҷумла таълими тағирёбии иқлим) дар сиёсати миллӣ таҳсил карда мешавад; (б) барномаҳои таълимӣ; (в) таълими муаллимон; ва (г) арзёбии донишҷӯён"
     },
     {
+      "path": "12-5-1/data.csv",
+      "name": "12-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Сатҳи такрории миллӣ, тонна маводҳои такрорӣ"
+    },
+    {
       "path": "17-19-1/data.csv",
       "name": "17-19-1",
       "profile": "tabular-data-resource",
@@ -8407,6 +7652,30 @@
         ]
       },
       "title": "Арзиши долларии ҳамаи захираҳо барои таҳкими иқтидори оморӣ дар кишварҳои рӯ ба тараққӣ фароҳам оварда шудааст"
+    },
+    {
+      "path": "13-1-3/data.csv",
+      "name": "13-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Таносуби ҳукуматҳои маҳаллӣ, ки стратегияҳои маҳаллии коҳиш додани хатари офатҳои табииро мутобиқи стратегияҳои коҳиши хатари офатҳои табиӣ қабул ва татбиқ мекунанд"
     },
     {
       "path": "16-1-4/data.csv",

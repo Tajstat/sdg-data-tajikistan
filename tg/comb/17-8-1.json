@@ -1,1 +1,1 @@
-{"data":{"Year":["2017","2018","2019","2020","2021","2022"],"SERIES":["IT_USE_II99","IT_USE_II99","IT_USE_II99","IT_USE_II99","IT_USE_II99","IT_USE_II99"],"REF_AREA":[null,null,null,null,null,null],"UNIT_MEASURE":["PER_100_POP","PER_100_POP","PER_100_POP","PER_100_POP","PER_100_POP","PER_100_POP"],"Value":[12.7,10.41,10.97,11.63,11.58,13.22]},"edges":[]}
+{"data":{"Year":["2017"],"SERIES":["IT_USE_II99"],"REF_AREA":[null],"UNIT_MEASURE":["PER_100_POP"],"Value":[12.7]},"edges":[]}

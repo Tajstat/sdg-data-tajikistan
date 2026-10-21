@@ -1,13 +1,7 @@
 Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2015,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,19.0
-2017,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,13.0
-2019,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,7.6
-2020,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,8.2
-2021,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,8.2
-2022,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,8.6
-2023,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,8.4
-2024,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,8.3
-2015,Neonatal mortality rate [3.2.2],,Male,under 1 month old,Percent,21.0
-2017,Neonatal mortality rate [3.2.2],,Male,under 1 month old,Percent,16.0
-2015,Neonatal mortality rate [3.2.2],,Female,under 1 month old,Percent,18.0
-2017,Neonatal mortality rate [3.2.2],,Female,under 1 month old,Percent,10.0
+2015,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,19
+2017,Neonatal mortality rate [3.2.2],,,under 1 month old,Percent,13
+2015,Neonatal mortality rate [3.2.2],,Male,under 1 month old,Percent,21
+2017,Neonatal mortality rate [3.2.2],,Male,under 1 month old,Percent,16
+2015,Neonatal mortality rate [3.2.2],,Female,under 1 month old,Percent,18
+2017,Neonatal mortality rate [3.2.2],,Female,under 1 month old,Percent,10
